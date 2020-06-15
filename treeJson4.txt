@@ -1,0 +1,3529 @@
+Arvore CNJ
+├── DIREITO TRIBUTÁRIO
+│   ├── Limitações ao Poder de Tributar
+│   │   ├── Imunidade 
+│   │   │   ├── Livros / Jornais / Periódicos
+│   │   │   ├── Entidades Sem Fins Lucrativos
+│   │   │   ├── Partidos Políticos
+│   │   │   └── Imunidade Recíproca
+│   │   ├── Isenção
+│   │   └── Competência Tributária
+│   ├── Impostos
+│   │   ├── IRPF/Imposto de Renda de Pessoa Física
+│   │   │   ├── Incidência sobre PDV
+│   │   │   ├── Incidência sobre Aposentadoria
+│   │   │   ├── Incidência sobre Aplicações Financeiras
+│   │   │   ├── Incidência sobre Licença-Prêmio/Abono/Indenização
+│   │   │   ├── Retido na fonte
+│   │   │   ├── Incidência sobre Férias Compensadas
+│   │   │   ├── Incidência sobre Proventos de Previdência Privada
+│   │   │   ├── Incidência sobre Participação nos Lucros
+│   │   │   ├── Incidência sobre Lucro Imobiliário
+│   │   │   ├── Incidência sobre 1/3 de férias (art. 7º, XVII da CF)
+│   │   │   ├── Incidência sobre 13° Salário
+│   │   │   ├── Incidência sobre Função Comissionada
+│   │   │   ├── Incidência sobre Hora Extra
+│   │   │   ├── Incidência decorrente de Desligamento de Plano de Previdência Privada
+│   │   │   ├── Incidência decorrente de Liquidação de Entidade de Previdência Privada
+│   │   │   ├── Incidência sobre Auxílio-condução
+│   │   │   ├── Incidência sobre Auxílio-creche
+│   │   │   ├── Incidência sobre Abono de Permanência
+│   │   │   └── Correção da Tabela
+│   │   ├── IRPJ/Imposto de Renda de Pessoa Jurídica
+│   │   │   ├── Microempresa
+│   │   │   ├── Demonstrações Financeiras (DCTF)
+│   │   │   ├── Incidência sobre Aplicações Financeiras
+│   │   │   ├── Retido na fonte
+│   │   │   ├── Incidência sobre Lucro
+│   │   │   ├── Cooperativa
+│   │   │   └── Compensação de Prejuízos
+│   │   ├── II/ Imposto sobre Importação
+│   │   │   ├── Importação de bens usados
+│   │   │   └── Drawback
+│   │   ├── IE/ Imposto sobre Exportação
+│   │   ├── IPI/ Imposto sobre Produtos Industrializados
+│   │   │   ├── Não Cumulatividade
+│   │   │   ├── Incidência sobre desconto incondicional
+│   │   │   └── Princípio da Seletividade
+│   │   ├── ICMS/ Imposto sobre Circulação de Mercadorias
+│   │   │   ├── ICMS/Importação
+│   │   │   ├── ICMS / Incidência Sobre o Ativo Fixo
+│   │   │   └── Nao Cumulatividade
+│   │   ├── IOC/IOF Imposto sobre operações de crédito, câmbio e seguro, ou relativas a títulos ou valores mobiliários
+│   │   │   └── Incidência sobre Ações de Companhias Abertas
+│   │   ├── ITR/ Imposto Territorial Rural
+│   │   ├── ISS/ Imposto sobre Serviços
+│   │   ├── IPTU/ Imposto Predial e Territorial Urbano
+│   │   ├── IPVA - Imposto Sobre Propriedade de Veículos Automotores
+│   │   ├── ITBI - Imposto de Transmissão Intervivos de Bens Móveis e Imóveis
+│   │   ├── ITCD - Imposto de Transmissão Causa Mortis
+│   │   └── IPMF - Imposto Provisório sobre Movimentação Financeira
+│   ├── Taxas
+│   │   ├── Federais
+│   │   │   ├── Taxa Anual por Hectare
+│   │   │   ├── Taxa de Armazenamento
+│   │   │   ├── Taxa de Despacho Aduaneiro
+│   │   │   ├── Taxa de Exploração Mineral
+│   │   │   ├── Taxa de Fiscalização Ambiental
+│   │   │   ├── Taxa de Guia de Importação
+│   │   │   ├── Taxa de Licença de Importação
+│   │   │   ├── Taxa de Melhoramento de Portos
+│   │   │   ├── Taxa de Permanência
+│   │   │   ├── Taxa de Saúde Suplementar
+│   │   │   ├── Taxa de Fiscalização da Comissão de Valores Mobiliários
+│   │   │   ├── Taxa Judiciária
+│   │   │   └── Taxa de Aferição de Equipamentos de Metrologia
+│   │   ├── Estaduais
+│   │   └── Municipais
+│   │       ├── Taxa de Limpeza Pública
+│   │       ├── Taxa de Iluminação Pública
+│   │       ├── Taxa de Coleta de Lixo
+│   │       ├── Taxa de Prevenção e Combate a Incêndio
+│   │       └── Taxa de Licenciamento de Estabelecimento
+│   ├── Empréstimos Compulsórios
+│   │   ├── Aquisição de veículos automotores
+│   │   ├── Aquisição de combustíveis
+│   │   ├── Aquisição de passagens e moedas - Viagem Exterior
+│   │   └── Energia Elétrica
+│   ├── Obrigação Tributária
+│   │   ├── Responsabilidade tributária
+│   │   │   ├── Responsabilidade Tributária do Sócio-Gerente / Diretor / Representante
+│   │   │   └── Substituição Tributária
+│   │   ├── DIMOB/Declaração de Informações sobre Atividades Imobilíárias
+│   │   ├── CNPJ/Cadastro Nacional de Pessoas Jurídicas
+│   │   ├── CPF/Cadastro de Pessoas Físicas
+│   │   ├── Obrigação Acessória
+│   │   └── Capacidade Tributária
+│   ├── Crédito Tributário
+│   │   ├── Suspensão da Exigibilidade
+│   │   │   ├── Carta de fiança
+│   │   │   ├── Parcelamento
+│   │   │   └── Depósito Judicial
+│   │   ├── Extinção do Crédito Tributário
+│   │   │   ├── Compensação com Apólices da Dívida Pública
+│   │   │   ├── Prescrição
+│   │   │   │   ├── Constitucionalidade do artigo 4º da LC 118/05
+│   │   │   │   ├── Constitucionalidade do artigo 46 da Lei 8212/91
+│   │   │   │   ├── Suspensão
+│   │   │   │   │   └── Arquivamento Administrativo - Crédito de Pequeno Valor
+│   │   │   │   ├── Interrupção
+│   │   │   │   │   └── Despacho de Citação
+│   │   │   │   └── Decretação de Ofício
+│   │   │   ├── Decadência
+│   │   │   │   └── Constitucionalidade do artigo 45 da Lei 8212/91
+│   │   │   ├── Compensação
+│   │   │   └── TDA/Títulos da Dívida Agrária
+│   │   ├── Anistia
+│   │   ├── Denúncia espontânea
+│   │   ├── Lançamento
+│   │   ├── CND/Certidão Negativa de Débito
+│   │   │   ├── Expedição de CND
+│   │   │   ├── Expedição de Certidão Positiva de Débito com Efeito de Negativa
+│   │   │   └── Certificado de Regularidade - FGTS
+│   │   ├── Incentivos fiscais
+│   │   ├── Anulação de Débito Fiscal
+│   │   ├── Juros/Correção Monetária
+│   │   ├── Prazo de Recolhimento
+│   │   ├── Repetição de indébito
+│   │   ├── Base de Cálculo
+│   │   │   ├── Exclusão - ICMS
+│   │   │   ├── Exclusão - IPI
+│   │   │   ├── Exclusão - Receitas Provenientes de Exportação
+│   │   │   ├── Cálculo de ICMS &quot;por dentro&quot;
+│   │   │   └── Exclusão - Receitas Transferidas a outras Pessoas Jurídicas
+│   │   ├── Crédito Prêmio
+│   │   ├── Crédito Presumido
+│   │   ├── Fato Gerador/Incidência
+│   │   ├── Alíquota
+│   │   │   ├── Alíquota Zero
+│   │   │   ├── Alíquota Progressiva
+│   │   │   └── Índice da Alíquota
+│   │   └── Creditamento
+│   ├── Dívida Ativa
+│   │   ├── Ausência de Cobrança Administrativa Prévia
+│   │   ├── Cobrança de Multa Moratória de Massa Falida
+│   │   └── Cobrança de Juros Moratórios de Massa Falida
+│   ├── Processo Administrativo Fiscal
+│   │   ├── Depósito Prévio ao Recurso Administrativo
+│   │   └── Arrolamento de Bens
+│   ├── Procedimentos Fiscais
+│   │   ├── Sigilo Fiscal
+│   │   │   └── Utilização de Dados Relativos à CPMF para Fins de Fiscalização
+│   │   ├── Liberação de mercadorias
+│   │   ├── Levantamento de depósito
+│   │   ├── Cadastro de Inadimplentes - CADIN
+│   │   ├── Autorização para Impressão de Documentos Fiscais - AIDF
+│   │   ├── Liberação de Veículo Apreendido
+│   │   ├── Perdimento de Bens
+│   │   └── Quebra de Sigilo Bancário
+│   ├── GATT - &quot;Acordo Geral sobre Tarifas e Comércio&quot;
+│   ├── Contribuições
+│   │   ├── Contribuições de Melhoria
+│   │   ├── Contribuições Sociais
+│   │   │   ├── Finsocial
+│   │   │   ├── Cofins
+│   │   │   │   └── Não Cumulatividade
+│   │   │   ├── Contribuição Social sobre o Lucro Líquido
+│   │   │   │   └── Compensação de Prejuízo
+│   │   │   ├── Salário-Educação
+│   │   │   ├── Seguro Acidentes do Trabalho
+│   │   │   ├── PIS
+│   │   │   │   └── Não Cumulatividade
+│   │   │   ├── Funrural
+│   │   │   ├── Contribuição INCRA
+│   │   │   ├── PASEP
+│   │   │   ├── Construção Civil
+│   │   │   ├── PIS - Importação
+│   │   │   └── COFINS - Importação
+│   │   ├── Contribuições Corporativas
+│   │   │   ├── Contribuições para o SEBRAE, SESC, SENAC, SENAI e outros
+│   │   │   ├── Conselhos Regionais e Afins (Anuidade)
+│   │   │   ├── Contribuição Sindical
+│   │   │   └── Contribuição Sindical Rural
+│   │   ├── Contribuições Previdenciárias
+│   │   │   ├── Servidores Ativos
+│   │   │   ├── Servidores Inativos
+│   │   │   ├── Mandato Eletivo/Lei 9.506/97
+│   │   │   ├── Aposentadoria/Retorno aoTrabalho
+│   │   │   ├── Cargo em Comissão
+│   │   │   ├── Tempo de Serviço Urbano/Contribuições não Recolhidas
+│   │   │   ├── Tempo de Serviço Rural/Contribuições não Recolhidas
+│   │   │   ├── Gratificação Natalina/13º Salário
+│   │   │   ├── Produção Agropecuária
+│   │   │   ├── Indenização Trabalhista
+│   │   │   ├── Reembolso auxílio-creche
+│   │   │   ├── Contribuição sobre a folha de salários
+│   │   │   ├── Devolução de contribuições previdenciárias pagas além do teto
+│   │   │   ├── 1/3 de férias
+│   │   │   ├── Auxílio-Alimentação
+│   │   │   ├── Custeio de Assistência Médica
+│   │   │   ├── Hora Extra
+│   │   │   ├── Massa Falida- Recolhimento
+│   │   │   ├── Nota Fiscal ou Fatura
+│   │   │   ├── Salário-Maternidade
+│   │   │   ├── Contribuição sobre Nota Fiscal de Execução de Serviços
+│   │   │   └── Contribuição de Autônomos, Empresários (Pró-labore) e Facultativos
+│   │   └── Contribuições Especiais
+│   │       ├── FNT/Fundo Nacional de Telecomunicações
+│   │       ├── ATP/Adicional de Tarifa Portuária
+│   │       ├── AITP/Adicional de Indenização do Trabalhador Portuário Avulso
+│   │       ├── Adicional de Tarifa Aeroportuária
+│   │       ├── AFRMM/Adicional ao Frete para Renovação da Marinha Mercante 
+│   │       ├── FUNDEF/Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério
+│   │       ├── Seguro Apagão (Lei 10.438/02)
+│   │       ├── Contribuição sobre licença de uso ou transferência de tecnologia
+│   │       ├── Contribuição de Intervenção no Domínio Econômico (CIDE)
+│   │       ├── FUNDAF/Fundo Especial de Desenvolvimento e Aperfeiçoamento das Atividades de Fiscalização 
+│   │       ├── FUSEX/FUNSA/FUSMA/Fundo de Saúde das Forças Armadas
+│   │       ├── Contribuição de Iluminação Pública
+│   │       ├── IUEE/Imposto Único sobre Energia Elétrica
+│   │       ├── FGTS/Fundo de Garantia Por Tempo de Serviço
+│   │       ├── Contribuição sobre Açúcar e Álcool
+│   │       └── CPMF/Contribuição Provisória sobre Movimentação Financeira
+│   ├── Discriminação Tributária MERCOSUL
+│   └── Regimes Especiais de Tributação
+│       ├── REFIS/Programa de Recuperação Fiscal
+│       ├── PAES/Parcelamento Especial
+│       ├── SIMPLES
+│       └── Super SIMPLES
+├── DIREITO PREVIDENCIÁRIO
+│   ├── Benefícios em Espécie
+│   │   ├── Aposentadoria por Invalidez
+│   │   ├── Aposentadoria por Idade (Art. 48/51)
+│   │   │   ├── Urbana (Art. 48/51)
+│   │   │   ├── Rural (Art. 48/51)
+│   │   │   └── Híbrida (Art. 48/106)
+│   │   ├── Aposentadoria por Tempo de Serviço (Art. 52/4)
+│   │   ├── Aposentadoria Especial (Art. 57/8)
+│   │   ├── Auxílio-Doença Previdenciário
+│   │   ├── Salário-Família (Art. 65/70)
+│   │   ├── Salário-Maternidade (Art. 71/73)
+│   │   ├── Pensão por Morte (Art. 74/9)
+│   │   ├── Auxílio-Reclusão (Art. 80)
+│   │   ├── Pecúlios (Art. 81/5)
+│   │   ├── Auxílio-Acidente (Art. 86)
+│   │   │   ├── Incapacidade Laborativa Parcial
+│   │   │   ├── Incapacidade Laborativa Permanente
+│   │   │   ├── Incapacidade Laborativa Temporária
+│   │   │   ├── Movimentos Repetitivos/Tenossinovite/LER/DORT
+│   │   │   └── Redução da Capacidade Auditiva
+│   │   ├── Abono de Permanência em Serviço (Art. 87)
+│   │   ├── Benefício Assistencial (Art. 203,V CF/88)
+│   │   │   ├── Deficiente
+│   │   │   └── Idoso
+│   │   ├── Ferroviário
+│   │   ├── Ex-combatentes
+│   │   ├── Renda Mensal Vitalícia
+│   │   ├── Aposentadoria por Tempo de Contribuição (Art. 55/6)
+│   │   ├── Auxílio-Doença Acidentário
+│   │   ├── Aposentadoria por Invalidez Acidentária
+│   │   └── Seguro-defeso ao pescado artesanal profissional
+│   ├── RMI - Renda Mensal Inicial, Reajustes e Revisões Específicas
+│   │   ├── RMI - Renda Mensal Inicial
+│   │   │   ├── RMI pelo art. 202 CF/88 (média dos 36 últimos salários-de-contribuição)
+│   │   │   ├── RMI pelo art. 1º da Lei 6.423/77 - índices de atualização dos 24 1ºs salários-de-contribuição, anteriores aos 12 últimos)
+│   │   │   ├── RMI pela equivalência entre Salário-de-Benefício e Salário-de-Contribuição
+│   │   │   ├── RMI sem incidência de Teto Limitador
+│   │   │   ├── RMI da pensão de dependente de ex-combatente
+│   │   │   ├── Benefício mínimo a partir da CF/88 (art. 201, § 2º CF/88)
+│   │   │   ├── Parcelas e índices de correção do salário-de-contribuição
+│   │   │   │   └── Inclusão do 13º salário (gratificação natalina) no PBC
+│   │   │   ├── Limitação do salário-de-benefício e da renda mensal inicial
+│   │   │   ├── RMI cuja salário-de-benefício supera menor valor teto
+│   │   │   ├── Escala de Salário-Base
+│   │   │   ├── Contribuição sobre vinte salários mínimos
+│   │   │   ├── Cálculo do Benefício de acordo com a Sistemática anterior à Lei 9.876/99
+│   │   │   ├── IRSM de Fevereiro de 1994(39,67%)
+│   │   │   ├── Alteração do coeficiente de cálculo de pensão
+│   │   │   ├── Alteração do coeficiente de cálculo do benefício
+│   │   │   ├── Cálculo do benefício de segurado especial de acordo com a Lei 9.876/99
+│   │   │   ├── Cálculo do fator previdenciário - Lei 9.876/99
+│   │   │   ├── Art. 26 da Lei 8.870/1994
+│   │   │   ├── Art. 29, § 5º, da Lei 8.213/1991
+│   │   │   ├── Art. 29, II, da Lei 8.213/1991
+│   │   │   └── Alteração do teto máximo para o valor do benefício previdenciário do RGPS (EC 20 e 41)
+│   │   └── Reajustes e Revisões Específicos
+│   │       ├── Reajuste pela Súmula 260 do TFR
+│   │       ├── Art. 58 ADCT da CF/88
+│   │       ├── Utilização do PNS no Reajuste de Benefícios
+│   │       ├── Manutenção do Benefício pela equivalência salarial
+│   │       ├── Expurgos inflacionários sobre os benefícios
+│   │       ├── Salário Mínimo de Ncz$ 120,00 para junho/89
+│   │       ├── Reajuste de 147%
+│   │       ├── Reajustamento pelo IGP-DI
+│   │       ├── Aplicação de coeficiente de cálculo diverso do fixado na Lei n.º 8.213/91
+│   │       ├── Reajuste aplicado ao salário mínimo em setembro/94
+│   │       ├── Sistemática de conversão dos benefícios previdenciários em URVs
+│   │       │   └── Revisão do valor do benefício no primeiro reajuste após a concessão (Art. 21, § 3º, da Lei 8.880/1994)
+│   │       ├── Reajustamento pelo INPC
+│   │       ├── Art. 144 da Lei 8.213/91 e/ou diferenças decorrentes
+│   │       ├── Gratificação Natalina a partir da CF/88 (Art. 201, § 6º CF/88)
+│   │       ├── Abono da Lei 8.178/91
+│   │       ├── Índice de 4,02% da Lei 8.222/91
+│   │       ├── Desconto do DL 1.910/81
+│   │       ├── Descontos dos benefícios
+│   │       ├── Correção Monetária pela Súmula 71 TFR
+│   │       ├── Correção Monetária de Benefício pago com atraso
+│   │       └── Reajuste conforme Portaria MPAS 714/1993
+│   ├── Disposições Diversas Relativas às Prestações
+│   │   ├── Habilitação e Reabilitação Profissional
+│   │   ├── Decadência/Prescrição
+│   │   ├── Declaração de Ausência
+│   │   ├── Atividade concomitante
+│   │   ├── Renúncia ao benefício
+│   │   ├── Demonstrativo das importâncias pagas
+│   │   ├── Períodos de Carência
+│   │   ├── Limite Mínimo de Idade
+│   │   ├── Perda da qualidade de segurado
+│   │   ├── Inclusão de Dependente
+│   │   ├── Regra de Transição para Aposentadoria - &quot;Pedágio&quot;
+│   │   └── Limite de Renda Familiar
+│   ├── Pedidos Genéricos Relativos aos Benefícios em Espécie
+│   │   ├── Data de Início de Benefício (DIB)
+│   │   ├── Cumulação
+│   │   ├── Parcelas de benefício não pagas
+│   │   ├── Concessão
+│   │   ├── Restabelecimento
+│   │   └── Conversão
+│   └── Tempo de serviço
+│       ├── Averbação/Cômputo/Conversão de tempo de serviço especial
+│       ├── Averbação/Cômputo de tempo de serviço de segurado especial (regime de economia familiar)
+│       ├── Averbação/Cômputo de tempo de serviço  rural (empregado/empregador)
+│       ├── Averbação/Cômputo do tempo de serviço como aluno aprendiz
+│       ├── Averbação/Cômputo do tempo de serviço militar
+│       ├── Averbação/Cômputo de tempo de serviço de empregado doméstico
+│       ├── Averbação/Cômputo de tempo de serviço urbano
+│       ├── Certidão de Tempo de Serviço
+│       └── Contagem Recíproca de Tempo de Serviço
+├── DIREITO PENAL
+│   ├── Crimes contra a vida
+│   │   ├── Homicídio Simples
+│   │   ├── Homicídio Privilegiado
+│   │   ├── Homicídio Qualificado
+│   │   ├── Induzimento, Instigação ou Auxílio a Suicídio
+│   │   ├── Infanticídio
+│   │   ├── Aborto
+│   │   │   ├── Aborto provocado pela gestante ou com o seu consentimento
+│   │   │   ├── Aborto provocado por terceiro
+│   │   │   └── Aborto qualificado
+│   │   ├── Feminicídio
+│   │   └── Homicídio Agravado pela Prática de  Extermínio de Seres Humanos
+│   ├── Lesão Corporal
+│   │   ├── Leve
+│   │   ├── Seguida de Morte
+│   │   ├── Grave
+│   │   ├── Gravíssima
+│   │   ├── Privilegiada
+│   │   └── Decorrente de Violência Doméstica
+│   │       ├── Contra a Mulher
+│   │       └── Contra pessoas não identificadas como mulher
+│   ├── Periclitação da Vida e da Saúde e Rixa
+│   │   ├── Perigo de contágio de moléstia grave
+│   │   ├── Perigo para a vida ou saúde de outrem
+│   │   ├── Abandono de incapaz
+│   │   ├── Omissão de socorro
+│   │   ├── Rixa
+│   │   ├── Perigo de Contágio Venéreo
+│   │   ├── Maus Tratos
+│   │   └── Exposição ou Abandono de Recém Nascido
+│   ├── Crimes contra a Honra
+│   │   ├── Calúnia
+│   │   ├── Difamação
+│   │   └── Injúria
+│   │       ├── Real
+│   │       ├── Preconceituosa
+│   │       └── Simples
+│   ├── Crimes contra a liberdade pessoal
+│   │   ├── Constrangimento ilegal 
+│   │   ├── Ameaça 
+│   │   ├── Seqüestro e cárcere privado 
+│   │   └── Redução a condição análoga à de escravo 
+│   ├── Crimes contra a inviolabilidade de domicílio
+│   │   └── Violação de domicílio 
+│   ├── Crimes contra a inviolabilidade de correspondência
+│   │   ├── Violação de correspondência 
+│   │   ├── Sonegação ou destruição de correspondência 
+│   │   ├── Violação de comunicação telegráfica, radioelétrica ou telefônica 
+│   │   └── Violação de Correspondência comercial 
+│   ├── Crimes contra a inviolabilidade de segredo
+│   │   ├── Divulgação de segredo 
+│   │   ├── Violação do segredo profissional 
+│   │   └── Invasão de Dispositivo Informático
+│   ├── Crimes contra o Patrimônio
+│   │   ├── Furto 
+│   │   ├── Furto Qualificado 
+│   │   ├── Furto de coisa comum 
+│   │   ├── Roubo 
+│   │   ├── Extorsão 
+│   │   ├── Extorsão mediante seqüestro 
+│   │   ├── Extorsão indireta
+│   │   ├── Alteração de limites 
+│   │   ├── Usurpação de águas 
+│   │   ├── Esbulho possessório
+│   │   ├── Dano
+│   │   ├── Introdução ou abandono de animais em propriedade alheia
+│   │   ├── Dano em coisa de valor artístico, arqueológico ou histórico
+│   │   ├── Alteração de local especialmente protegido
+│   │   ├── Apropriação indébita Previdenciária 
+│   │   ├── Estelionato
+│   │   ├── Estelionato Majorado 
+│   │   ├── Outras fraudes
+│   │   ├── Fraude à execução 
+│   │   ├── Receptação
+│   │   ├── Apropriação indébita
+│   │   ├── Apropriação de Coisa Havida por Erro, Caso Fortuito ou Força da Natureza
+│   │   ├── Furto Privilegiado
+│   │   ├── Furto de Veículo Automotor a ser Transportado para outro Estado ou Exterior
+│   │   ├── Roubo Majorado
+│   │   ├── Latrocínio
+│   │   ├── Extorsão mediante Seqüestro Seguida de Morte
+│   │   ├── Extorsão mediante Sequestro Seguida de Lesão Corporal Grave
+│   │   ├── Supressão ou Alteração de Marca em Animais
+│   │   ├── Dano Qualificado
+│   │   ├── Apropriação de Tesouro
+│   │   ├── Apropriação de Coisa Achada
+│   │   ├── Disposição de coisa alheia como própria
+│   │   ├── Alienação ou Oneração Fraudulenta de Coisa Própria
+│   │   ├── Defraudação de Penhor
+│   │   ├── Fraude na Entrega de Coisa
+│   │   ├── Fraude para Recebimento de Indenização ou Valor de Seguro
+│   │   ├── Fraude no Pagamento por Meio de Cheque
+│   │   ├── Duplicata Simulada
+│   │   ├── Abuso de Incapazes
+│   │   ├── Induzimento à Especulação
+│   │   ├── Fraude no Comércio
+│   │   ├── Fraudes e Abusos na Fundação ou Administração de Sociedade por Ações
+│   │   ├── Emissão Irregular de Conhecimento de Depósito ou &quot;Warrant&quot;
+│   │   ├── Receptação Qualificada
+│   │   └── Receptação culposa
+│   ├── Crimes contra a Propriedade Intelectual
+│   │   └── Violação de direito autoral
+│   ├── Crimes contra a Organização do Trabalho
+│   │   ├── Atentado contra a liberdade de trabalho
+│   │   ├── Atentado contra a liberdade de contrato de trabalho e boicotagem violenta
+│   │   ├── Atentado contra a liberdade de associação
+│   │   ├── Paralisação de trabalho, seguida de violência ou perturbação da ordem
+│   │   ├── Paralisação de trabalho de interesse coletivo
+│   │   ├── Invasão de estabelecimento industrial, comercial ou agrícola. Sabotagem
+│   │   ├── Frustração de direitos assegurados por lei trabalhista
+│   │   ├── Exercício de atividade com infração de decisão administrativa 
+│   │   ├── Aliciamento para fins de emigração
+│   │   ├── Aliciamento de trabalhadores de um local para outro do território nacional
+│   │   └── Frustração de lei sobre a nacionalização do trabalho 
+│   ├── Crimes contra o sentimento religioso e contra o respeito aos mortos
+│   │   ├── Destruição / Subração / Ocultação de Cadáver
+│   │   ├── Impedimento ou Perturbação de Cerimônia Funerária
+│   │   ├── Vilipêndio a Cadáver
+│   │   ├── Violação a Sepultura 
+│   │   └── Ultraje / Impedimento ou Perturbação de Culto Religioso
+│   ├── Crimes contra a Dignidade Sexual
+│   │   ├── Estupro 
+│   │   ├── Atentado Violento ao Pudor 
+│   │   ├── Atentado ao Pudor Mediante Fraude
+│   │   ├── Corrupção de Menores
+│   │   ├── Ultraje Público ao Pudor (Ato/Escrito Obsceno)
+│   │   ├── Mediação para Servir a Lascívia de Outrem 
+│   │   ├── Posse Sexual Mediante Fraude
+│   │   ├── Assédio Sexual
+│   │   ├── Favorecimento da Prostituição
+│   │   ├── Casa de Prostituição
+│   │   ├── Rufianismo
+│   │   ├── Tráfico Internacional de Pessoas
+│   │   ├── Tráfico Interno de Pessoas
+│   │   ├── Violação sexual mediante fraude
+│   │   ├── Estupro de vulnerável
+│   │   ├── Satisfação de lascívia mediante presença de criança ou adolescente 
+│   │   ├── Favorecimento da prostituição ou outra forma de exploração sexual de vulnerável 
+│   │   ├── Favorecimento da prostituição ou outra forma de exploração sexual
+│   │   ├── Tráfico internacional de pessoa para fim de exploração sexual
+│   │   ├── Tráfico interno de pessoa para fim de exploração sexual
+│   │   ├── Importunação Sexual
+│   │   └── Divulgação de cena de estupro, sexo ou pornografia
+│   ├── Crimes contra a Família
+│   │   ├── Crimes Contra a Assistência Familiar
+│   │   │   ├── Abandono Material
+│   │   │   ├── Abandono Intelectual
+│   │   │   └── Entrega de Filho Menor a Pessoa Inidônea
+│   │   ├── Crimes contra o Casamento
+│   │   │   ├── Bigamia
+│   │   │   ├── Conhecimento Prévio de Impedimento 
+│   │   │   ├── Induzimento a erro essencial e ocultação de impedimento
+│   │   │   ├── Simulação de Casamento
+│   │   │   └── Simulação de Autoridade para Celebração de Casamento
+│   │   ├── Crimes Contra o Estado de Filiação
+│   │   │   ├── Parto Suposto 
+│   │   │   ├── Registro de Nascimento Inexistente
+│   │   │   └── Sonegação do Estado de Filiação
+│   │   └── Crime contra o Pátrio-Poder e Tutela
+│   │       ├── Induzimento a Fuga, Entrega Arbitrária ou Sonegação de Incapazes
+│   │       └── Subtração de Incapazes 
+│   ├── Crimes contra a Incolumidade Pública
+│   │   ├── Incêndio
+│   │   ├── Explosão 
+│   │   ├── Uso de gás tóxico ou asfixiante 
+│   │   ├── Inundação / Perigo de Inundação
+│   │   ├── Desabamento ou desmoronamento
+│   │   ├── Subtração, ocultação ou inutilização de material de salvamento
+│   │   ├── Difusão de doença ou praga
+│   │   ├── Desastre ferroviário / Perigo de Desastre Ferroviário
+│   │   ├── Atentado contra a segurança de transporte público
+│   │   ├── Arremesso de projétil
+│   │   ├── Atentado contra a segurança de serviços de utilidade pública 
+│   │   ├── Interrupção /perturbação de serviços telegráficos/telefônicos
+│   │   ├── Epidemia 
+│   │   ├── Emprego de Processo Proibido/Substância não permitida
+│   │   ├── Invólucro ou recipiente com falsa indicação 
+│   │   ├── Falsificação / Corrupção / Adulteração / Alteração de produto destinado a fins terapêuticos ou medicinais
+│   │   ├── Exercício Ilegal da Medicina, Arte Dentária ou Farmacêutica
+│   │   ├── Charlatanismo 
+│   │   ├── Corrupção ou Poluição de Água Potável
+│   │   ├── Curandeirismo 
+│   │   ├── Envenenamento de Água Potável / Substância Alimentícia ou Medicinal
+│   │   ├── Falsificação / Corrupção / Adulteração / Alteração de Substância ou Produtos Alimentícios
+│   │   ├── Infração de Medida Sanitária Preventiva
+│   │   ├── Omissão de Notificação de Doença
+│   │   ├── Outras Substâncias Nocivas a Saúde Pública 
+│   │   ├── Substância Destinada à Falsificação
+│   │   ├── Fabrico / Fornecimento / Aquisição / Posse ou Transporte de Explosivos ou Gás Tóxico ou Asfixiante
+│   │   ├── Venda de Produtos ou Substância nas Condições dos Artigos 274 e 275 
+│   │   ├── Medicamento em Desacordo com Receita Médica
+│   │   ├── Difusão culposa de doença ou praga
+│   │   ├── Incêndio culposo
+│   │   ├── Explosão culposa
+│   │   ├── Uso culposo de gás tóxico ou asfixiante
+│   │   ├── Inundação culposa
+│   │   ├── Desabamento ou desmoronamento culposo
+│   │   └── Desastre ferroviário culposo
+│   ├── Crimes contra a Paz Pública
+│   │   ├── Quadrilha ou Bando
+│   │   ├── Incitação ao Crime
+│   │   └── Apologia de Crime ou Criminoso
+│   ├── Crimes contra a Fé Pública
+│   │   ├── Moeda Falsa / Assimilados
+│   │   ├── Petrechos para falsificação de moeda 
+│   │   ├── Emissão de título ao portador sem permissão legal 
+│   │   ├── Falsificação de papéis públicos 
+│   │   ├── Falsificação do selo ou sinal público 
+│   │   ├── Falsificação de documento público
+│   │   ├── Falsificação de documento particular 
+│   │   ├── Falsidade ideológica 
+│   │   ├── Falso reconhecimento de firma ou letra
+│   │   ├── Certidão ou atestado ideologicamente falso 
+│   │   ├── Falsidade material de atestado ou certidão 
+│   │   ├── Falsidade de atestado médico 
+│   │   ├── Reprodução ou adulteração de selo ou peça filatélica 
+│   │   ├── Uso de documento falso 
+│   │   ├── Supressão de documento 
+│   │   ├── Falsificação do sinal empregado no contraste de metal precioso ou na fiscalização alfandegária, ou para outros fins 
+│   │   ├── Falsa identidade 
+│   │   ├── Fraude de lei sobre estrangeiros
+│   │   ├── Petrechos de Falsificação de Papéis Públicos
+│   │   ├── Adulteração de Sinal Identificador de Veículo Automotor
+│   │   ├── Adulteração de Sinal Identificador de Veículo Automotor por Funcionário Público
+│   │   ├── Petrechos de Falsificação de Papéis Públicos por Funcionário Público
+│   │   ├── Petrechos para falsificação de moeda por Funcionário Público
+│   │   ├── Falsidade ideológica praticada por Funcionário Público
+│   │   ├── Falsificação de documento Público praticado por Funcionário Público
+│   │   │   └── Falsificação de documento público praticada por Funcionário Público
+│   │   ├── Falsificação de documento Público praticada por Funcionário Público
+│   │   ├── Falsificação do Selo ou Sinal Público Praticado por Funcionário Público
+│   │   ├── Falsificação de Papéis Públicos Praticado por Funcionário Público
+│   │   ├── Crime de Desvio e/ou Circulação de Moeda Não Autorizada
+│   │   └── Crime de Moeda Falsa Praticado por Funcionário Público
+│   ├── Crimes Praticados por Funcionários Públicos Contra a Administração em Geral
+│   │   ├── Peculato
+│   │   ├── Peculato mediante erro de outrem
+│   │   ├── Extravio, sonegação ou inutilização de livro ou documento 
+│   │   ├── Emprego irregular de verbas ou rendas públicas 
+│   │   ├── Concussão 
+│   │   ├── Excesso de exação 
+│   │   ├── Corrupção passiva 
+│   │   ├── Facilitação de contrabando ou descaminho 
+│   │   ├── Prevaricação
+│   │   ├── Condescendência criminosa
+│   │   ├── Advocacia administrativa 
+│   │   ├── Violência arbitrária 
+│   │   ├── Abandono de função 
+│   │   ├── Exercício funcional ilegalmente antecipado ou prolongado 
+│   │   ├── Violação do sigilo funcional 
+│   │   ├── Violação do sigilo de proposta de concorrência 
+│   │   ├── Inserção de dados falsos em sistema de informações 
+│   │   ├── Modificação ou alteração não autorizada de sistema de informações 
+│   │   └── "Lavagem" ou Ocultação de Bens, Direitos ou Valores Oriundos de Corrupção
+│   ├── Crimes Previstos na Legislação Extravagante
+│   │   ├── Crimes contra a Propriedade Industrial
+│   │   │   ├── Crimes contra Patente de Invenção
+│   │   │   ├── Crimes contra os Desenhos Industriais
+│   │   │   ├── Crimes contra as Marcas
+│   │   │   ├── Crimes Cometidos por Meio de Marca, Título de Estabelecimento e Sinal de Propaganda 
+│   │   │   ├── Crimes contra Indicações Geeográficas e Demais Indicações
+│   │   │   └── Crimes de Concorrência Desleal
+│   │   ├── Crimes de Responsabilidade
+│   │   ├── Crimes contra a Economia Popular
+│   │   ├── Crimes de Abuso de Autoridade
+│   │   ├── Crimes de Tráfico Ilícito e Uso Indevido de Drogas
+│   │   │   ├── Tráfico de Drogas e Condutas Afins
+│   │   │   ├── Posse de Drogas para Consumo Pessoal
+│   │   │   │   └── Despenalização / Descriminalização
+│   │   │   ├── Fabricação de Objeto Destinado a Produção de Drogas e Condutas Afins 
+│   │   │   ├── Indução, Instigação ou Auxílio ao Uso de Drogas
+│   │   │   ├── Oferecimento de Drogas para Consumo Conjunto
+│   │   │   ├── Associação para a Produção e Tráfico e Condutas Afins
+│   │   │   ├── Financiamento ou Custeio de Produção ou Tráfico de Drogas
+│   │   │   ├── Colaboração com Grupo, Organização ou Associação Destinados à Produção ou Tráfico de Drogas 
+│   │   │   ├── Prescrição Culposa de Drogas
+│   │   │   ├── Condução de Embarcação ou Aeronave sob Efeito de Drogas
+│   │   │   └── Tráfico Ilícito de Drogas praticado por Funcionário Público
+│   │   ├── Responsabilidade Criminal por Danos Nucleares
+│   │   ├── Crimes contra o Serviço Postal e o Serviço de Telegrama
+│   │   ├── Crimes contra a Segurança Nacional, a Ordem Política e Social
+│   │   ├── Crimes contra o Sistema Financeiro Nacional
+│   │   ├── Crimes Resultante de Preconceito de Raça ou de Cor
+│   │   ├── Crimes contra a Ordem Tributária
+│   │   ├── Crimes contra a Ordem Econômica
+│   │   ├── Crimes contra as Relações de Consumo
+│   │   ├── Representação caluniosa
+│   │   ├── Crimes contra o Meio Ambiente e o Patrimônio Genético
+│   │   │   ├── Crimes contra a Fauna
+│   │   │   ├── Crimes contra a Flora
+│   │   │   ├── Da Poluição
+│   │   │   ├── Agrotóxicos 
+│   │   │   ├── Atividades Nucleares 
+│   │   │   ├── Caça 
+│   │   │   ├── Liberação ou Descarte de OGM (Organismo Geneticamente Modificado)
+│   │   │   ├── Pesca 
+│   │   │   ├── Utilização de Embrião Humano em Desacordo com a Legislação
+│   │   │   ├── Prática de engenharia genética em célula germinal, zigoto ou embrião humanos
+│   │   │   ├── Clonagem Humana
+│   │   │   ├── Crime contra a administração ambiental
+│   │   │   └── Crimes contra o Ordenamento Urbano e o Patrimônio Cultural
+│   │   ├── Crimes de &quot;Lavagem&quot; ou Ocultação de Bens, Direitos ou Valores
+│   │   ├── Crimes contra as Telecomunicações
+│   │   ├── Crimes Previstos na Lei de Estrangeiros
+│   │   ├── Crimes de Tortura
+│   │   ├── Crimes de Trânsito
+│   │   ├── Crimes do Sistema Nacional de Armas
+│   │   ├── Crimes de Imprensa
+│   │   ├── Crimes Previstos no Estatuto da criança e do adolescente
+│   │   ├── Crimes contra o mercado de capitais
+│   │   ├── Crimes de genocídio
+│   │   ├── Sigilo Telefônico
+│   │   ├── Crimes da Lei de licitações
+│   │   ├── Crimes da Lei de remoção de órgãos e tecidos
+│   │   ├── Crimes praticados contra os índios e a cultura indígena
+│   │   ├── Recusa, retardamento ou omissão de dados técnicos indispensáveis à propositura de Ação Civil Pública
+│   │   ├── Crimes Agrários
+│   │   ├── Crimes relacionados à Comissão Parlamentar de Inquérito
+│   │   ├── Crimes Eleitorais
+│   │   │   ├── Inscrição fraudulenta 
+│   │   │   ├── Calúnia
+│   │   │   ├── Difamação
+│   │   │   ├── Injúria
+│   │   │   ├── Captação ilícita de votos ou corrupção eleitoral
+│   │   │   ├── Aliciamento eleitoral
+│   │   │   ├── Falso eleitoral
+│   │   │   ├── Desobediência à determinações da Justiça Eleitoral
+│   │   │   ├── Boca de urna
+│   │   │   ├── Indução à inscrição indevida
+│   │   │   ├── Desordem eleitoral
+│   │   │   ├── Falsificação de documento público para fins eleitorais
+│   │   │   ├── Uso de documento falso
+│   │   │   ├── Obtenção de documento falso
+│   │   │   ├── Aliciamento de eleitores
+│   │   │   ├── Divulgação de pesquisa de fraudulenta
+│   │   │   ├── Impedimento à fiscalização das pesquisas
+│   │   │   ├── Publicação de pesquisa irregular
+│   │   │   ├── Uso de símbolos governamentais em propaganda eleitoral
+│   │   │   ├── Coação eleitoral
+│   │   │   ├── Aliciamento violento de eleitores
+│   │   │   ├── Aliciamento comercial de eleitores
+│   │   │   └── Ocultação de urna
+│   │   ├── Crime de Quebra de Sigilo Financeiro
+│   │   ├── Crimes do Código Brasileiro de Telecomunicações
+│   │   ├── Crimes Previstos no Estatuto do Idoso
+│   │   ├── Parcelamento do solo urbano
+│   │   ├── Crimes Falimentares
+│   │   ├── Crimes Militares
+│   │   │   ├── Motim
+│   │   │   ├── Pederastia ou outro ato de libidinagem
+│   │   │   ├── Roubo
+│   │   │   │   ├── Roubo simples
+│   │   │   │   └── Roubo qualificado
+│   │   │   ├── Estelionato
+│   │   │   ├── Incêndio
+│   │   │   ├── Peculato
+│   │   │   ├── Concussão
+│   │   │   ├── Corrupção ativa
+│   │   │   ├── Prevaricação
+│   │   │   ├── Deserção
+│   │   │   ├── Homicídio
+│   │   │   │   ├── Homicídio simples
+│   │   │   │   └── Homicídio qualificado
+│   │   │   ├── Lesões Corporais
+│   │   │   │   ├── Lesão levíssima
+│   │   │   │   ├── Leve
+│   │   │   │   ├── Grave
+│   │   │   │   └── Lesões qualificadas pelo resultado
+│   │   │   ├── Difamação
+│   │   │   ├── Injúria
+│   │   │   └── Latrocínio
+│   │   ├── Crime Contra a Administração da Justiça - Lei da Ação de Alimentos 
+│   │   ├── Crimes contra a Ordem Tributária praticado por Funcionário Público
+│   │   ├── Crimes contra portadores de deficiência
+│   │   ├── Crimes Previstos no Estatuto do Torcedor
+│   │   ├── Crimes da Lei do Planejamento Familiar
+│   │   ├── Crimes Sobre Produção, Comércio e Transporte Clandestino de Açúcar e Álcool
+│   │   ├── Crime Relacionado à Exportação de Bens Sensíveis e Serviços Diretamente Relacionados
+│   │   ├── Crime da Lei Sobre Permissão de Lavra Garimpeira
+│   │   ├── Crimes da Lei que Proíbe Práticas Discriminatórias para Efeitos Trabalhistas
+│   │   ├── Crimes da Lei de Proteção à Propriedade Intelectual de Programa de Computador
+│   │   ├── Crimes da Lei de Locação de Imóveis Urbanos
+│   │   ├── Crimes da Lei Geral da Copa
+│   │   └── Crimes do Estatuto do Torcedor
+│   ├── Contravenções Penais
+│   │   ├── Provocação de tumulto ou conduta inconveniente
+│   │   ├── Fabrico, comércio ou detenção de arma branca ou munição
+│   │   ├── Porte de arma (branca)
+│   │   ├── Vias de fato
+│   │   ├── Omissão de cautela na guarda ou condução de animal
+│   │   ├── Perturbação do trabalho ou do sossego alheios
+│   │   ├── Simulação de Qualidade de Funcionário
+│   │   ├── Uso ilegítimo de uniforme ou distintivo
+│   │   ├── Jogo de azar
+│   │   ├── Loteria não autorizada
+│   │   ├── Jogo do bicho
+│   │   ├── Servir bebidas alcóolicas a vulneráveis
+│   │   ├── Perturbação da tranquilidade
+│   │   ├── Omissão de comunicação de crime
+│   │   └── Recusa de dados sobre a própria identificação ou qualificação
+│   ├── Crime Tentado
+│   ├── Crime Culposo
+│   ├── Crimes Praticados por Particular Contra a Administração em Geral
+│   │   ├── Usurpação de função pública 
+│   │   ├── Resistência 
+│   │   ├── Tráfico de influência 
+│   │   ├── Corrupção ativa 
+│   │   ├── Impedimento, perturbação ou fraude de concorrência
+│   │   ├── Inutilização de edital ou de sinal 
+│   │   ├── Subtração ou inutilização de livro ou documento 
+│   │   ├── Desobediência 
+│   │   ├── Desacato 
+│   │   ├── Contrabando ou descaminho 
+│   │   ├── Sonegação de contribuição previdenciária 
+│   │   └── "Lavagem" ou Ocultação de Bens, Direitos ou Valores Oriundos de Corrupção
+│   ├── Crimes Praticados por Particular Contra a Administração Pública Estrangeira
+│   │   ├── Corrupção Ativa em Transação Comercial Internacional
+│   │   ├── Tráfico de Influência em Transação Comercial Internacional
+│   │   └── "Lavagem" ou Ocultação de Bens, Direitos ou Valores Oriundos de Corrupção
+│   ├── Crimes Contra a Administração da Justiça
+│   │   ├── Reingresso de estrangeiro expulso 
+│   │   ├── Denunciação caluniosa 
+│   │   ├── Comunicação falsa de crime ou de contravenção 
+│   │   ├── Auto-acusação falsa
+│   │   ├── Falso testemunho ou falsa perícia 
+│   │   ├── Coação no curso do processo 
+│   │   ├── Exercício arbitrário das próprias razões 
+│   │   ├── Fraude processual
+│   │   ├── Favorecimento pessoal 
+│   │   ├── Favorecimento real 
+│   │   ├── Exercício arbitrário ou abuso de poder 
+│   │   ├── Fuga de pessoa presa ou submetida a medida de segurança 
+│   │   ├── Evasão mediante violência contra a pessoa 
+│   │   ├── Arrebatamento de preso 
+│   │   ├── Motim de presos 
+│   │   ├── Patrocínio infiel 
+│   │   ├── Patrocínio simultâneo ou tergiversação 
+│   │   ├── Sonegação de papel ou objeto de valor probatório 
+│   │   ├── Exploração de prestígio 
+│   │   ├── Violência ou fraude em arrematação judicial
+│   │   ├── Desobediência a decisão judicial sobre perda ou suspensão de direitos 
+│   │   └── Entrada de aparelho telefônico de comunicação móvel em estabelecimento prisional
+│   ├── Crimes Contra as Finanças Públicas
+│   │   ├── Contratação de Operação de Crédito
+│   │   ├── Inscrição de Despesas Não Empenhadas
+│   │   ├── Assunção de Obrigação no Último Ano do Mandato ou Legislatura
+│   │   ├── Ordenação de Despesa Não Autorizada
+│   │   ├── Prestação de Garantia Graciosa
+│   │   ├── Não Cancelamento de Restos a Pagar
+│   │   ├── Aumento de Despesa com Pessoal no Último Ano do Mandato ou Legislatura
+│   │   ├── Oferta Pública ou Colocação de Títulos no Mercado
+│   │   ├── Má gestão
+│   │   │   └── Má -gestão praticada por Prefeitos e Vereadores
+│   │   ├── Má-gestão praticada por Prefeitos e Vereadores
+│   │   └── Corrupção Praticada por Prefeitos e Vereadores
+│   ├── Parte Geral
+│   │   ├── Tipicidade
+│   │   │   ├── Abolitio Criminis
+│   │   │   └── Princípio da Insignificância
+│   │   ├── Excludentes
+│   │   │   ├── Legítima Defesa
+│   │   │   ├── Estado de Necessidade
+│   │   │   ├── Estrito Cumprimento do Dever Legal
+│   │   │   └── Inexigibilidade de Conduta Diversa
+│   │   ├── Aplicação da Pena
+│   │   │   ├── Substituição da Pena
+│   │   │   └── Regime inicial
+│   │   ├── Extinção da Punibilidade
+│   │   │   ├── Prescrição
+│   │   │   ├── Perdão
+│   │   │   ├── Anistia
+│   │   │   ├── Indulto
+│   │   │   └── Pagamento ou Parcelamento do Crédito Tributário
+│   │   ├── Suspensão condicional da pena
+│   │   └── Efeitos da Condenação
+│   │       ├── Perda da Função Pública
+│   │       └── Perda de Bens e Valores
+│   ├── Violência Doméstica Contra a Mulher
+│   ├── Crime / Contravenção contra Criança / Adolescente
+│   ├── Crime / Contravenção contra Idoso
+│   ├── Fato Atípico
+│   ├── Crime/contravenção decorrente de conflito fundiário coletivo
+│   ├── Terrorismo
+│   │   ├── Atos de Terrorismo
+│   │   ├── Organização Terrorista
+│   │   ├── Preparação de ato terrorista
+│   │   └── Manutenção ou financiamento do terrorismo
+│   ├── Crimes previstos na Lei da Organização Criminosa
+│   │   ├── Promoção, constituição, financiamento ou integração de Organização Criminosa
+│   │   └── Crimes ocorridos na investigação da prova
+│   │       ├── Revelação de identidade, fotografia ou filmagem do colaborador
+│   │       ├── Imputação falsa de prática de infração penal ou revelação inverídica sobre estrutura de organização criminal
+│   │       ├── Descumprimento de determinação de sigilo
+│   │       └── Recusa ou omissão de dados cadastrais, registros, documentos e informações
+│   └── Crimes cometidos contra autoridade ou agente descrito nos arts. 142 e 143 da Constituição Federal, integrantes do sistema prisional e da Força Nacional de Segurança Pública
+├── DIREITO DO TRABALHO
+│   ├── Contrato Individual de Trabalho
+│   │   ├── Alteração Contratual ou das Condições de Trabalho
+│   │   │   ├── Reversão / Retorno ao Cargo Efetivo
+│   │   │   ├── Alteração / Revogação de Regulamento da Empresa
+│   │   │   └── Transferência
+│   │   ├── Contrato Por Prazo Determinado
+│   │   │   └── Contrato de Experiência - Nulidade
+│   │   ├── CTPS
+│   │   │   ├── Anotação / Baixa / Retificação
+│   │   │   └── Devolução
+│   │   ├── PIS / RAIS
+│   │   ├── FGTS mas em outro ramo na árvore da justiça do trabalho
+│   │   │   ├── Correção Monetária
+│   │   │   ├── Depósito / Diferença de Recolhimento
+│   │   │   └── Levantamento / Liberação
+│   │   ├── Inquérito Administrativo
+│   │   ├── Contratação de Reabilitados e Deficientes Habilitados
+│   │   ├── Enquadramento / Classificação
+│   │   ├── Reintegração de Posse - Despejo
+│   │   ├── Unicidade Contratual
+│   │   ├── Reconhecimento de Relação de Emprego
+│   │   ├── Advertência / Suspensão
+│   │   ├── Administração Pública
+│   │   │   ├── Contrato Nulo
+│   │   │   ├── Contrato Temporário
+│   │   │   └── Contratação em Período Eleitoral
+│   │   ├── Suspensão / Interrupção do Contrato de Trabalho 
+│   │   │   └── Licenças / Afastamentos
+│   │   ├── Contrato de Trabalho Temporário
+│   │   ├── Contrato Provisório de Emprego
+│   │   └── Contrato em Regime de Tempo Parcial
+│   ├── Duração do Trabalho
+│   │   ├── Horas In Itinere
+│   │   ├── Adicional Noturno
+│   │   ├── Horas Extras
+│   │   ├── Sobreaviso
+│   │   ├── Intervalo Interjornada
+│   │   ├── Intervalo Intrajornada
+│   │   ├── Adicional de Hora Extra
+│   │   ├── Repouso Semanal Remunerado e Feriado
+│   │   └── Turno Ininterrupto de Revezamento
+│   ├── Acordo e Convenção Coletivos de Trabalho
+│   │   ├── Aplicabilidade
+│   │   └── Anulação
+│   ├── Direito Sindical e Questões Análogas
+│   │   ├──  Contribuição / Taxa Assistencial
+│   │   ├──  Contribuição Confederativa
+│   │   ├──  Eleição
+│   │   ├──  Registro de Entidade Sindical
+│   │   ├── Contribuição Sindical
+│   │   ├── Representação Sindical
+│   │   └── Contribuição Sindical Rural
+│   ├── Responsabilidade Solidária / Subsidiária
+│   │   ├── Tomador de Serviços / Terceirização
+│   │   ├── Grupo Econômico
+│   │   ├── Sucessão de Empregadores
+│   │   ├── Subempreitada
+│   │   └── Sócio / Acionista
+│   ├── Sentença Normativa
+│   │   ├── Revisão
+│   │   └── Aplicabilidade
+│   ├── Responsabilidade Civil do Empregador
+│   │   ├── Indenizaçao por Dano Moral
+│   │   │   ├── Assédio Moral
+│   │   │   ├── Assédio Sexual
+│   │   │   ├── Acidente de Trabalho
+│   │   │   └── Desconfiguração de Justa Causa
+│   │   └── Indenização por Dano Material
+│   │       └── Acidente de Trabalho
+│   ├── Remuneração, Verbas Indenizatórias e Benefícios
+│   │   ├── Cesta Básica
+│   │   ├── Comissão
+│   │   ├── Complemento Temporário Variável de Ajuste ao Piso de Mercado
+│   │   ├── Descontos Salariais - Devolução
+│   │   ├── Diárias
+│   │   ├── Gratificação
+│   │   │   ├── Gratificação por Tempo de Serviço
+│   │   │   └── Gratificação de Função
+│   │   ├── Supressão de Horas Extras Habituais - Indenização
+│   │   ├── Multa Prevista em Norma Coletiva
+│   │   ├── PIS - Indenização
+│   │   ├── Prêmio
+│   │   ├── Contribuição de Previdência Privada - Resgate
+│   │   ├── Plano de Saúde
+│   │   ├── Gorjeta
+│   │   ├── Salário / Diferença Salarial
+│   │   │   ├── Salário In Natura
+│   │   │   ├── Piso Salarial da Categoria / Salário Mínimo Profissional
+│   │   │   ├── Reajuste Salarial
+│   │   │   ├── Salário Vencido / Retido
+│   │   │   ├── Salário Família
+│   │   │   ├── Salário Paternidade
+│   │   │   ├── Salário Por Fora - Integração
+│   │   │   ├── Salário Por Safra
+│   │   │   ├── Salário por Equiparação / Isonomia
+│   │   │   ├── Mínimo
+│   │   │   ├── Salário por Acúmulo de Cargo / Função
+│   │   │   ├── Salário Maternidade
+│   │   │   └── Salário Substituição
+│   │   ├── Seguro de Vida
+│   │   ├── Tarefa 
+│   │   ├── Tíquete Alimentação
+│   │   ├── Vale Transporte
+│   │   ├── Abono
+│   │   ├── Adicional 
+│   │   │   ├── Insalubridade
+│   │   │   ├── Periculosidade
+│   │   │   └── Adicional de Transferência
+│   │   ├── Ajuda de Custo
+│   │   ├── Décimo Terceiro Salário
+│   │   ├── Restituição / Indenização de Despesa
+│   │   └── Licenças e Folgas - Conversão em Pecúnia
+│   ├── Rescisão do Contrato de Trabalho
+│   │   ├── Culpa Recíproca
+│   │   ├── Despedida / Dispensa Imotivada
+│   │   ├── Justa Causa / Falta Grave
+│   │   ├── Plano de Demissão Voluntária
+│   │   ├── Rescisão Indireta
+│   │   ├── Seguro Desemprego
+│   │   │   ├── Indenização
+│   │   │   └── Liberação das Guias
+│   │   ├── Verbas Rescisórias
+│   │   │   ├── Multa de 40% do FGTS
+│   │   │   ├── Multa do Artigo 467 da CLT
+│   │   │   ├── Multa do Artigo 477 da CLT
+│   │   │   ├── AVISO PRÉVIO
+│   │   │   ├── Décimo Terceiro Salário Proporcional
+│   │   │   ├── Férias Proporcionais 
+│   │   │   ├── Indenização Adicional
+│   │   │   └── Saldo de Salário
+│   │   ├── Reintegração / Readmissão ou Indenização
+│   │   │   ├── Dirigente Sindical
+│   │   │   ├──  Empregado Público
+│   │   │   ├──  Portador de HIV
+│   │   │   ├── Contrato Suspenso
+│   │   │   ├── Estabilidade decorrente de Norma Coletiva
+│   │   │   ├──  Gestante
+│   │   │   ├──  Membro da Cipa
+│   │   │   ├── Anistia
+│   │   │   └── Estabilidade Acidentária
+│   │   └── Indenização do artigo 478 da CLT
+│   ├── Aposentadoria e Pensão
+│   │   └── Complementação de Aposentadoria / Pensão
+│   ├── Férias
+│   │   ├── Fruição / Gozo 
+│   │   ├── Indenização / Terço Constitucional
+│   │   └── Abono Pecuniário
+│   ├── Outras Relações de Trabalho
+│   │   ├── Contrato de Aprendizagem
+│   │   ├── Cooperativa de Trabalho
+│   │   ├── Contrato de Estágio
+│   │   ├── Empreitada
+│   │   ├── Representante Comercial Autônomo
+│   │   ├── Honorários Profissionais
+│   │   ├── Trabalhador Eventual
+│   │   └── Trabalhador Avulso
+│   ├── Direito de Greve / Lockout
+│   │   └── Interdito Proibitório
+│   ├── Categoria Profissional Especial
+│   │   ├── Advogados
+│   │   ├── Aeronautas
+│   │   ├── Artistas
+│   │   ├── Atleta Profissional
+│   │   ├── Bancários
+│   │   ├── Cabineiros de Elevador
+│   │   ├── Doméstico
+│   │   ├── Engenheiro, Arquiteto e Engenheiro Agrônomo
+│   │   ├── Jornalistas
+│   │   ├── Marítimos
+│   │   ├── Digitadores / Mecanógrafos / Datilógrafos
+│   │   ├── Médicos
+│   │   ├── Mineiros de Subsolos
+│   │   ├── Músicos Profissionais
+│   │   ├── Operadores de Carga e Descarga (Estiva e Capatazia)
+│   │   ├── Operadores Cinematográficos
+│   │   ├── Professores
+│   │   ├── Químicos
+│   │   ├── Radialistas
+│   │   ├── Serviços de Telefonia ou Telegrafia
+│   │   ├── Trabalhadores em Petróleo
+│   │   ├── Vigia e Vigilantes
+│   │   ├── Aeroviários
+│   │   └── Rural
+│   └── Prescrição
+│       ├── Rural
+│       ├── FGTS
+│       └── Acidente de Trabalho
+├── DIREITO CIVIL
+│   ├── Família
+│   │   ├── Alimentos
+│   │   │   ├── Exoneração
+│   │   │   ├── Revisão
+│   │   │   ├── Oferta
+│   │   │   └── Fixação
+│   │   ├── Casamento
+│   │   │   ├── Nulidade / Anulação
+│   │   │   ├── Dissolução
+│   │   │   └── Conversão da união estável em casamento
+│   │   ├── União Estável ou Concubinato
+│   │   │   ├── União Homoafetiva
+│   │   │   └── Reconhecimento / Dissolução
+│   │   ├── Tutela e Curatela
+│   │   ├── Regime de Bens Entre os Cônjuges
+│   │   ├── Usufruto e Administração dos Bens de Filhos Menores
+│   │   ├── Bem de Família
+│   │   ├── Relações de Parentesco
+│   │   │   ├── Busca e Apreensão de Menores
+│   │   │   ├── Guarda
+│   │   │   ├── Investigação de Paternidade
+│   │   │   ├── Regulamentação de Visitas
+│   │   │   ├── Investigação de Maternidade
+│   │   │   ├── Adoção de Maior
+│   │   │   ├── Guarda com genitor ou responsável no exterior
+│   │   │   ├── Alienação Parental
+│   │   │   └── Suspensão ou Extinção do Poder Familiar
+│   │   │       ├── Suspensão do Poder Familiar
+│   │   │       └── Extinção do Poder Familiar
+│   │   │           └── Perda por crime contra titular do mesmo poder ou descendente (L. 13.715/2018)
+│   │   ├── Violência Doméstica Contra a Mulher
+│   │   ├── Tutela
+│   │   │   ├── Nomeação
+│   │   │   ├── Dispensa
+│   │   │   ├── Remoção
+│   │   │   ├── Remoção
+│   │   │   └── Levantamento
+│   │   └── Curatela
+│   │       ├── Levantamento
+│   │       ├── Remoção
+│   │       ├── Dispensa
+│   │       └── Nomeação
+│   ├── Pessoas naturais
+│   │   ├── Direitos da Personalidade 
+│   │   ├── Capacidade
+│   │   ├── Curadoria dos bens do ausente
+│   │   └── Sucessão Provisória
+│   ├── Sucessões
+│   │   ├── Nulidade e Anulação de Testamento
+│   │   ├── Nulidade e Anulação de Partilha e Adjudicação de Herança
+│   │   ├── Sub-rogação de Vinculo
+│   │   ├── Exclusão de herdeiro ou legatário
+│   │   ├── Petição de Herança
+│   │   ├── Deserdação
+│   │   ├── Administração de herança
+│   │   ├── Inventário e Partilha
+│   │   ├── Adjudicação de herança
+│   │   └── Cremação/Traslado
+│   ├── Obrigações
+│   │   ├── Títulos de Crédito
+│   │   │   ├── Anulação
+│   │   │   ├── Requisitos
+│   │   │   └── Sustação de Protesto
+│   │   ├── Transmissão
+│   │   │   ├── Cessão de Crédito
+│   │   │   └── Assunção de Dívida
+│   │   ├── Adimplemento e Extinção
+│   │   │   ├── Pagamento
+│   │   │   ├── Pagamento em Consignação
+│   │   │   ├── Pagamento com Sub-rogação
+│   │   │   ├── Imputação do Pagamento
+│   │   │   ├── Dação em Pagamento
+│   │   │   ├── Novação
+│   │   │   ├── Compensação
+│   │   │   ├── Confusão
+│   │   │   ├── Remissão das Dívidas
+│   │   │   └── Desconto em folha de pagamento
+│   │   ├── Inadimplemento
+│   │   │   ├── Correção Monetária
+│   │   │   ├── Perdas e Danos
+│   │   │   ├── Juros de Mora - Legais / Contratuais
+│   │   │   │   ├── Capitalização / Anatocismo
+│   │   │   │   └── Limitação de Juros
+│   │   │   ├── Cláusula Penal
+│   │   │   ├── Arras ou Sinal
+│   │   │   ├── Rescisão / Resolução
+│   │   │   └── Comissão de Permanência
+│   │   ├── Atos Unilaterais
+│   │   │   ├── Promessa de Recompensa
+│   │   │   ├── Gestão de Negócios
+│   │   │   ├── Pagamento Indevido
+│   │   │   └── Enriquecimento sem Causa
+│   │   ├── Preferências e Privilégios Creditórios
+│   │   ├── Espécies de Títulos de Crédito
+│   │   │   ├── Cédula de Crédito Bancário
+│   │   │   ├── Cédula de Crédito à Exportação
+│   │   │   ├── Cédula de Crédito Comercial
+│   │   │   ├── Cédula de Crédito Industrial
+│   │   │   ├── Cédula de Crédito Rural
+│   │   │   ├── Cédula de Produto Rural
+│   │   │   ├── Cédula Hipotecária
+│   │   │   ├── Cheque
+│   │   │   ├── Debêntures
+│   │   │   ├── Duplicata
+│   │   │   ├── Letra de Câmbio
+│   │   │   ├── Nota de Crédito Comercial
+│   │   │   ├── Nota de Crédito Industrial
+│   │   │   ├── Nota de Crédito Rural
+│   │   │   ├── Nota Promissória
+│   │   │   └── Warrant
+│   │   └── Espécies de Contratos
+│   │       ├── Câmbio
+│   │       ├── Parceria Agrícola e/ou pecuária
+│   │       ├── Previdência privada
+│   │       │   └── Resgate de Contribuição
+│   │       ├── Representação comercial
+│   │       ├── Sistema Financeiro da Habitação
+│   │       │   ├── Equivalência salarial
+│   │       │   ├── Quitação
+│   │       │   ├── Reajuste de Prestações
+│   │       │   ├── Transferência de Financiamento (contrato de gaveta)
+│   │       │   ├── Sustação/Alteração de Leilão
+│   │       │   ├── Seguro
+│   │       │   ├── Revisão do Saldo Devedor
+│   │       │   ├── Vícios de Construção
+│   │       │   ├── Programas de Arrendamento Residencial  PAR
+│   │       │   └── Tabela Price
+│   │       ├── Edição
+│   │       ├── Agêncie e Distribuição
+│   │       ├── Alienação Fiduciária
+│   │       ├── Arrendamento Rural
+│   │       ├── Arrendamento Mercantil
+│   │       ├── Cartão de Crédito
+│   │       ├── Comissão
+│   │       ├── Compra e Venda
+│   │       ├── Corretagem
+│   │       ├── Depósito
+│   │       ├── Doação
+│   │       ├── Empreitada
+│   │       ├── Fiança
+│   │       ├── Locação de Imóvel
+│   │       │   ├── Despejo para Uso Próprio
+│   │       │   ├── Despejo para Uso de Ascendentes e Descendentes
+│   │       │   ├── Despejo por Denúncia Vazia
+│   │       │   ├── Benfeitorias
+│   │       │   ├── Direito de Preferência
+│   │       │   ├── Cobrança de Aluguéis - Sem despejo
+│   │       │   └── Consignação de Chaves
+│   │       ├── Mandato
+│   │       ├── Troca ou Permuta
+│   │       ├── Prestação de Serviços
+│   │       ├── Seguro
+│   │       ├── Transação
+│   │       ├── Transporte de Coisas
+│   │       ├── Transporte de Pessoas
+│   │       ├── Estimatório
+│   │       ├── Comodato
+│   │       ├── Mútuo
+│   │       ├── Constituição de Renda
+│   │       ├── Jogo e Aposta
+│   │       ├── Compromisso
+│   │       ├── Contratos Bancários
+│   │       ├── Franquia
+│   │       ├── Locação de Móvel
+│   │       └── Crédito Rural
+│   ├── Fatos Jurídicos
+│   │   ├── Ato / Negócio Jurídico
+│   │   │   ├── Defeito, nulidade ou anulação
+│   │   │   └── Evicção ou Vicio Redibitório
+│   │   └── Prescrição e Decadência
+│   ├── Empresas
+│   │   ├── Recuperação judicial e Falência
+│   │   │   ├── Recuperação extrajudicial
+│   │   │   ├── Autofalência
+│   │   │   ├── Concurso de Credores
+│   │   │   ├── Liquidação
+│   │   │   ├── Revogação de atos praticados em prejuízo de credores e da massa
+│   │   │   ├── Ineficácia de atos  em relação à massa
+│   │   │   ├── Convolação de recuperação judicial em falência
+│   │   │   ├── Administração judicial
+│   │   │   ├── Classificação de créditos
+│   │   │   ├── Depósito Elisivo
+│   │   │   └── Extinção das Obrigaões do Falido
+│   │   ├── Mercado de Capitais
+│   │   │   └── Bolsa de Valores
+│   │   ├── Sociedade 
+│   │   │   ├── Apuração de haveres
+│   │   │   ├── Constituição
+│   │   │   ├── Dissolução
+│   │   │   ├── Desconsideração da Personalidade Jurídica
+│   │   │   ├── Ingresso e Exclusão dos Sócios na Sociedade
+│   │   │   ├── Responsabilidade dos sócios e administradores
+│   │   │   ├── Transferência de cotas
+│   │   │   ├── Coligação
+│   │   │   ├── Transformação
+│   │   │   ├── Incorporação
+│   │   │   ├── Fusão
+│   │   │   ├── Cisão
+│   │   │   ├── Liquidação
+│   │   │   └── Alteração de capital
+│   │   └── Espécies de Sociedades
+│   │       ├── Conta de Participação
+│   │       ├── Simples
+│   │       ├── Nome Coletivo
+│   │       ├── Comandita Simples
+│   │       ├── Limitada
+│   │       ├── Anônima
+│   │       ├── Comandita por Ações
+│   │       ├── Cooperativa
+│   │       ├── Coligadas
+│   │       ├── Dependente de Autorização
+│   │       ├── Estrangeira
+│   │       └── Em comum / De fato
+│   ├── Pessoas Jurídicas
+│   │   ├── Associação
+│   │   │   ├── Assembléia
+│   │   │   ├── Eleição
+│   │   │   ├── Extinção
+│   │   │   ├── Inclusão de associado
+│   │   │   └── Exclusão de associado
+│   │   ├── Fundação de Direito Privado
+│   │   │   ├── Assembléia
+│   │   │   ├── Eleição
+│   │   │   ├── Extinção
+│   │   │   └── Fiscalização
+│   │   ├── Organizações Religiosas
+│   │   └── Partido Político
+│   │       ├── Exclusão de filiado
+│   │       ├── Fusão
+│   │       └── Eleições - Diretórios
+│   ├── Responsabilidade Civil
+│   │   ├── Indenização por Dano Moral
+│   │   │   ├── Erro Médico
+│   │   │   ├── Acidente de Trânsito
+│   │   │   ├── Lei de Imprensa
+│   │   │   └── Direito de Imagem
+│   │   ├── Dano Ambiental
+│   │   └── Indenização por Dano Material
+│   │       ├── Erro Médico
+│   │       ├── Acidente de Trânsito
+│   │       ├── Lei de Imprensa
+│   │       ├── Direito de Imagem
+│   │       └── Acidente de Trabalho - Ressarcimento ao Erário
+│   └── Coisas
+│       ├── Posse
+│       │   ├── Esbulho / Turbação / Ameaça
+│       │   ├── Imissão
+│       │   └── Aquisição
+│       ├── Propriedade
+│       │   ├── Propriedade Intelectual / Industrial
+│       │   │   ├── Direito Autoral
+│       │   │   ├── Patente
+│       │   │   ├── Desenho Industrial
+│       │   │   ├── Marca
+│       │   │   └── Programa de Computador
+│       │   ├── Perda da Propriedade
+│       │   ├── Adjudicação Compulsória
+│       │   ├── Divisão e Demarcação
+│       │   ├── Reivindicação
+│       │   ├── Retificação de Área de Imóvel
+│       │   ├── Alienação Judicial
+│       │   ├── Aquisição
+│       │   │   ├── Acessão
+│       │   │   ├── Usucapião Especial (Constitucional)
+│       │   │   ├── Usucapião Extraordinária
+│       │   │   ├── Usucapião Ordinária
+│       │   │   ├── Usucapião Especial Coletiva
+│       │   │   ├── Usucapião da L 6.969/1981
+│       │   │   ├── Usucapião Conjugal
+│       │   │   └── Usucapião de bem móvel
+│       │   ├── Direito de Vizinhança
+│       │   ├── Condomínio
+│       │   ├── Condomínio em Edifício
+│       │   │   ├── Administração
+│       │   │   ├── Alteração de Coisa Comum
+│       │   │   ├── Assembléia
+│       │   │   ├── Despesas Condominiais
+│       │   │   ├── Direitos / Deveres do Condômino
+│       │   │   ├── Vaga de garagem
+│       │   │   └── Multa
+│       │   ├── Incorporação Imobiliária
+│       │   ├── Propriedade Resolúvel
+│       │   └── Propriedade Fiduciária
+│       ├── Enfiteuse
+│       ├── Servidão
+│       ├── Usufruto
+│       ├── Superfície
+│       ├── Uso
+│       ├── Habitação
+│       ├── Penhor
+│       │   ├── Rural - Agrícola/Pecuário
+│       │   ├── Industrial / Mercantil
+│       │   ├── Direitos e Títulos de Crédito
+│       │   ├── Veículos
+│       │   └── Legal
+│       ├── Hipoteca
+│       ├── Anticrese
+│       ├── Promessa de Compra e Venda
+│       ├── Conflito fundiário coletivo rural
+│       └── Conflito fundiário coletivo urbano
+├── DIREITO MARÍTIMO
+│   ├── Registro / Cadastro do Armador
+│   ├── Responsabilidade do Comandante ou Capitão
+│   ├── Inscrição / Registro da Embarcação
+│   ├── Serviços Auxiliares da Navegação
+│   │   ├── Agenciamento
+│   │   ├── Corretagem de Embarcação
+│   │   └── Praticagem
+│   ├── Responsabilidade Contratual
+│   │   ├── Engajamento e Profissionais Marítimos
+│   │   ├── Seguros Marítimos
+│   │   ├── Aluguel de Embarcações (Fretamento E Carta Partida)
+│   │   ├── Hipoteca Marítima
+│   │   ├── Créditos / Privilégios Marítimos
+│   │   ├── Quanto à Embarcação
+│   │   └── Quanto à Carga
+│   └── Responsabilidade Extracontratual
+│       ├── Abandono
+│       ├── Acidentes da Navegação
+│       ├── Arresto de Embarcação
+│       ├── Assistência / Salvamento
+│       ├── Avaria
+│       └── Clandestinos
+├── DIREITO DO CONSUMIDOR
+│   ├── Responsabilidade do Fornecedor
+│   │   ├── Substituição do Produto
+│   │   ├── Rescisão do contrato e devolução do dinheiro
+│   │   ├── Abatimento proporcional do preço 
+│   │   ├── Interpretação / Revisão de Contrato
+│   │   ├── Indenização por Dano Moral
+│   │   │   ├── Inclusão Indevida em Cadastro de Inadimplentes
+│   │   │   ├── Protesto Indevido de Título
+│   │   │   └── Análise de Crédito
+│   │   ├── Indenização por Dano Material
+│   │   └── Produto Impróprio
+│   ├── Contratos de Consumo
+│   │   ├── Transporte Aéreo
+│   │   │   ├── Atraso de vôo
+│   │   │   ├── Cancelamento de vôo
+│   │   │   ├── Overbooking
+│   │   │   ├── Extravio de bagagem
+│   │   │   └── Acidente Aéreo
+│   │   ├── Planos de Saúde
+│   │   │   ├── Fornecimento de medicamentos
+│   │   │   ├── Tratamento médico-hospitalar
+│   │   │   ├── Unidade de terapia intensiva (UTI) ou Unidade de cuidados intensivos (UCI)
+│   │   │   └── Reajuste contratual
+│   │   ├── Telefonia
+│   │   │   ├── Assinatura Básica Mensal
+│   │   │   ├── Pulsos Excedentes
+│   │   │   └── Cobrança indevida de ligações 
+│   │   ├── Turismo
+│   │   ├── Consórcio
+│   │   ├── Estabelecimentos de Ensino
+│   │   ├── Seguro
+│   │   ├── Bancários
+│   │   │   ├── Expurgos Inflacionários / Planos Econômicos
+│   │   │   ├── Empréstimo consignado
+│   │   │   └── Tarifas
+│   │   ├── Fornecimento de Energia Elétrica
+│   │   ├── Fornecimento de Água
+│   │   ├── Cartão de Crédito
+│   │   ├── Financiamento de Produto
+│   │   ├── Serviços Profissionais
+│   │   ├── Serviços Hospitalares
+│   │   ├── Transporte Terrestre
+│   │   │   ├── Transporte Ferroviário
+│   │   │   └── Transporte Rodoviário
+│   │   ├── Capitalização e Previdência Privada
+│   │   ├── Transporte Aquaviário
+│   │   ├── Produto Impróprio
+│   │   └── Combustíveis e derivados
+│   ├── Dever de Informação
+│   ├── Práticas Abusivas
+│   ├── Oferta e Publicidade
+│   ├── Irregularidade no atendimento
+│   ├── Vendas casadas
+│   ├── Jogos / Sorteios / Promoções comerciais
+│   ├── Combustíveis e derivados
+│   └── Cláusulas Abusivas
+├── DIREITO PROCESSUAL PENAL
+│   ├── Ação Penal
+│   │   ├── Nulidade
+│   │   │   ├── Quesitos
+│   │   │   ├── Impedimento
+│   │   │   ├── Suspeição
+│   │   │   ├── Cerceamento de Defesa
+│   │   │   ├── Ausência de Publicidade
+│   │   │   ├── Ausência de Fundamentação
+│   │   │   └── Vício Formal do Julgamento
+│   │   ├── Suspensão
+│   │   │   ├── Condicional do processo
+│   │   │   ├── Parcelamento de crédito tributário
+│   │   │   └── Questão Prejudicial
+│   │   ├── Trancamento
+│   │   ├── Perempção
+│   │   ├── Transação
+│   │   ├── Prisão Decorrente de Sentença Condenatória
+│   │   ├── Excesso de prazo para instrução / julgamento
+│   │   ├── Provas
+│   │   │   └── Prova Ilícita
+│   │   └── Composição Civil
+│   ├── Jurisdição e Competência
+│   │   ├── Desaforamento
+│   │   ├── Competência dos Juizados Especiais
+│   │   ├── Competência da Justiça Federal
+│   │   ├── Competência da Justiça Estadual
+│   │   ├── Competência por Prerrogativa de Função
+│   │   └── Imunidade em razão de função, ofício ou profissão
+│   ├── Recurso
+│   │   ├── Deserção
+│   │   └── Denegação
+│   ├── Fiança
+│   ├── Prisão Preventiva
+│   ├── Denúncia/Queixa
+│   │   ├── Recebimento
+│   │   ├── Rejeição
+│   │   └── Desclassificação
+│   ├── Liberdade Provisória
+│   ├── Prisão em flagrante
+│   ├── Inclusão/exclusão de Jurado
+│   ├── Execução Penal
+│   │   ├── Pena Restritiva de Direitos
+│   │   │   ├── Prestação Pecuniária
+│   │   │   ├── Perda de Bens e Valores
+│   │   │   ├── Prestação de Serviços à Comunidade
+│   │   │   ├── Interdição Temporária de Direitos
+│   │   │   └── Limitação de Fim de Semana
+│   │   ├── Pena Privativa de Liberdade
+│   │   │   ├── Progressão de Regime
+│   │   │   │   └── Crimes Hediondos
+│   │   │   ├── Livramento condicional
+│   │   │   ├── Remição
+│   │   │   ├── Regressão de Regime
+│   │   │   └── Transferência de Preso
+│   │   ├── Pena de Multa
+│   │   ├── Medidas de Segurança
+│   │   │   ├── Tratamento Ambulatorial
+│   │   │   └── Internação
+│   │   ├── Penas do Código Penal Militar
+│   │   └── Execução Penal Provisória - Cabimento
+│   ├── Falsidade
+│   ├── Investigação Penal
+│   │   ├── Competência do MP
+│   │   ├── Cerceamento de Defesa
+│   │   ├── Quebra do Sigilo Bancário
+│   │   ├── Quebra do Sigilo Fiscal
+│   │   ├── Quebra do Sigilo Telefônico
+│   │   └── Trancamento
+│   ├── Prisão Temporária
+│   ├── Habeas Corpus - Cabimento
+│   ├── Prisão Domiciliar / Especial
+│   ├── Medidas Assecuratórias
+│   │   ├── Indisponibilidade / Seqüestro de Bens
+│   │   ├── Busca e Apreensão de Bens
+│   │   └── Medidas Protetivas
+│   ├── Registro de Ocorrência pela PM
+│   └── Registro de Ocorrência pela PM
+├── DIREITO INTERNACIONAL
+│   ├── Nacionalidade
+│   │   ├── Aquisição
+│   │   ├── Perda
+│   │   ├── Concessão de Naturalização
+│   │   └── Cancelamento de Naturalização
+│   ├── Estrangeiro
+│   │   ├── Admissão / Entrada / Permanência / Saída
+│   │   ├── Asilo
+│   │   ├── Livre Trânsito MERCOSUL
+│   │   └── Trabalhador Migrante ou Fronteiriço do MERCOSUL
+│   ├── Proteção Internacional a Direitos Humanos
+│   ├── Cooperação Internacional
+│   │   ├── Auxílio Direto
+│   │   ├── Mercosul
+│   │   └── Restituição de Criança, Convenção de Haia 1980
+│   ├── Tratado Internacional
+│   ├── Normas do Mercosul
+│   ├── Casamento e Divórcio
+│   ├── Sucessão de Bens de Estrangeiro
+│   ├── Prestação de Alimentos
+│   ├── Funcionamento de Empresa Estrangeira
+│   ├── Pessoa Jurídica Estrangeira
+│   ├── Contratos Internacionais
+│   └── Laudo Arbitral Internacional
+├── REGISTROS PÚBLICOS
+│   ├── Registro Civil das Pessoas Naturais
+│   │   ├── Registro de nascimento após prazo legal
+│   │   ├── Retificação de Nome 
+│   │   ├── Retificação de Data de Nascimento
+│   │   ├── Retificação de Sexo
+│   │   ├── Registro de Óbito após prazo legal
+│   │   └── Registro de Nascimento de Filho de Brasileiro Nascido no Exterior
+│   ├── Tabelionato de Protestos de Títulos
+│   │   └── Cancelamento de Protesto
+│   ├── Registro de Imóveis
+│   │   ├── Cancelamento de Hipoteca
+│   │   │   ├── Por Remição
+│   │   │   └── Por Terceiro Prejudicado
+│   │   ├── Inscrição na Matrícula de Registro Torrens
+│   │   ├── Instituição de Bem de Família
+│   │   └── Bloqueio de Matrícula
+│   └── Registro Civil de Pessoas Jurídicas
+├── DIREITO PROCESSUAL CIVIL E DO TRABALHO
+│   ├── Jurisdição e Competência
+│   │   ├── Competência 
+│   │   │   ├── Competência dos Juizados Especiais
+│   │   │   ├── Competência da Justiça do Trabalho
+│   │   │   ├── Competência da Justiça Federal
+│   │   │   ├── Competência da Justiça Estadual
+│   │   │   ├── Competência por Prerrogativa de Função
+│   │   │   ├── Competência da Justiça Militar da União
+│   │   │   └── Competência da Justiça Militar dos Estados
+│   │   └── Imunidade de Jurisdição
+│   ├──  Partes e Procuradores
+│   │   ├── Assistência Judiciária Gratuita
+│   │   ├── Intervenção de Terceiros 
+│   │   ├── Litigância de Má-Fé
+│   │   ├── Litisconsórcio 
+│   │   ├── Sucessão Processual
+│   │   ├── Procuração 
+│   │   ├── Representação em Juízo
+│   │   ├── Sucumbência 
+│   │   │   ├── Honorários Advocatícios
+│   │   │   ├── Honorários Advocatícios em Execução Contra a Fazenda Pública
+│   │   │   ├── Honorários Advocatícios em FGTS 
+│   │   │   └── Custas
+│   │   ├── Honorários Periciais
+│   │   ├── Capacidade Processual
+│   │   └── Substituição da Parte
+│   ├── Ministério Público
+│   ├── Órgãos Judiciários e Auxiliares da Justiça
+│   │   ├── Do Juiz
+│   │   │   ├── Suspeição
+│   │   │   ├── Impedimento
+│   │   │   └── Poderes, Deveres e Responsabilidades do Juiz
+│   │   └── Dos Auxiliares da Justiça
+│   ├── Atos Processuais
+│   │   ├── Nulidade
+│   │   │   ├── Nulidade - Não Observância da Reserva de Plenário
+│   │   │   ├── Nulidade - Ausência de publicidade de decisão
+│   │   │   ├── Nulidade - Ausência de Fundamentação de Decisão
+│   │   │   ├── Nulidade - Impedimento
+│   │   │   ├── Nulidade - Suspeição
+│   │   │   ├── Nulidade - Ausência de Nome das Partes
+│   │   │   ├── Nulidade - Ausência de Identificação de Advogado ou de Sociedade de Advogados
+│   │   │   ├── Nulidade - Ausência de Intimação do Ministério Público
+│   │   │   ├── Nulidade - Citação Sem Observância das Prescrições Legais
+│   │   │   ├── Nulidade - Intimação Sem Observância das Prescrições Legais
+│   │   │   │   └── Nulidade - Título Extrajudicial Não Correspondente a Obrigação Certa, Líquida e Exigível
+│   │   │   ├── Nulidade - Intimação Sem Observância das Prescrições Legais
+│   │   │   ├── Nulidade - Título Extrajudicial Não Correspondente a Obrigação Certa, Líquida e Exigível 
+│   │   │   ├── Nulidade - Ausência de Citação do Executado
+│   │   │   └── Nulidade - Execução Instaurada Antes de Condição ou Termo
+│   │   ├──  Prazo
+│   │   ├── Valor da Causa
+│   │   ├── Citação
+│   │   └── Intimação / Notificação
+│   ├── Formação, Suspensão e Extinção do Processo
+│   │   ├──  Suspensão do Processo
+│   │   ├── Modificação ou Alteração do Pedido
+│   │   └── Extinção do Processo Sem Resolução de Mérito
+│   │       ├── Ausência de Interesse Processual
+│   │       ├── Legitimidade para a Causa
+│   │       │   ├── Ausência de Legitimidade para propositura de Ação Civil Pública
+│   │       │   └── Ausência de Legitimidade para a Causa
+│   │       └── Ausência de Pressupostos de Constituição e Desenvolvimento 
+│   ├── Processo e Procedimento
+│   │   ├── Antecipação de Tutela / Tutela Específica
+│   │   ├── Erro de Procedimento
+│   │   ├── Provas
+│   │   │   ├── Depoimento
+│   │   │   └── Provas em geral
+│   │   ├── Revelia 
+│   │   └── Vícios Formais da Sentença
+│   ├── Recurso
+│   │   ├── Efeitos
+│   │   ├── Preparo / Deserção
+│   │   ├── Prazo
+│   │   │   ├── Fac-símile
+│   │   │   ├── Protocolo Integrado / Descentralizado
+│   │   │   └── Tempestividade
+│   │   ├──  Cabimento
+│   │   ├── Regularidade Formal
+│   │   ├── Sobrestamento
+│   │   └── Conversão em Agravo Retido
+│   ├── Liquidação / Cumprimento / Execução
+│   │   ├── Valor da Execução / Cálculo / Atualização
+│   │   │   ├── Juros
+│   │   │   ├── Correção Monetária
+│   │   │   └── Taxa SELIC
+│   │   ├── Levantamento de Valor
+│   │   ├── Penhora / Depósito/ Avaliação 
+│   │   ├── Multa de 10%
+│   │   ├── Inexequibilidade do Título / Inexigibilidade da Obrigação
+│   │   ├── Expropriação de Bens
+│   │   ├── Remição
+│   │   ├── Extinção da Execução
+│   │   ├── Concurso de Credores
+│   │   ├── Execução Previdenciária
+│   │   ├── Fraude à Execução
+│   │   ├── Imunidade de Execução
+│   │   ├── Sucessão
+│   │   ├── Causas Supervenientes à Sentença
+│   │   ├── Efeito Suspensivo / Impugnação / Embargos à Execução
+│   │   ├── Benefício de Ordem
+│   │   ├── Ato Atentatório à Dignidade da Justiça
+│   │   ├── Prisão Civil
+│   │   │   ├── Alimentos
+│   │   │   ├── Depositário Infiel
+│   │   │   └── Alienação Fiduciária
+│   │   ├── Obrigação de Entregar
+│   │   │   ├── Imissão na Posse
+│   │   │   ├── Busca e Apreensão
+│   │   │   ├── Requerimento de Reintegração de Posse
+│   │   │   └── Requerimento de Apreensão de Veículo
+│   │   ├── Obrigação de Fazer / Não Fazer
+│   │   ├── Precatório
+│   │   │   ├── Sequestro de Verbas Públicas
+│   │   │   ├── Fracionamento
+│   │   │   ├── Crédito Complementar
+│   │   │   ├── Parcela Incontroversa
+│   │   │   ├── Liquidação Parcelada
+│   │   │   ├── Fraude / Quebra de ordem cronológica
+│   │   │   └── Pagamento
+│   │   ├── Requisição de Pequeno Valor - RPV
+│   │   ├── Fato Superveniente ao Término do Prazo para Impugnação
+│   │   ├── Multa Cominatória / Astreintes
+│   │   └── Cumprimento Provisório de Sentença
+│   ├── Tutela Provisória
+│   │   ├── Liminar 
+│   │   ├── Indenização do Prejuízo
+│   │   ├── Caução
+│   │   ├── Separação de Corpos
+│   │   ├── Tutela de Urgência
+│   │   ├── Tutela de Evidência
+│   │   └── Revisão de Tutela Antecipada Antecedente
+│   ├── Objetos de cartas precatórias/de ordem
+│   │   ├── Intimação
+│   │   ├── Citação
+│   │   ├── Oitiva
+│   │   ├── Diligências
+│   │   └── Atos executórios
+│   └── Revisão de Tutela Antecipada
+├── DIREITO DA CRIANÇA E DO ADOLESCENTE
+│   ├── Ato Infracional
+│   │   ├── Contra a vida
+│   │   │   ├── Homicídio Simples
+│   │   │   ├── Homicídio Privilegiado
+│   │   │   ├── Homicídio Qualificado
+│   │   │   ├── Induzimento, Instigação ou Auxílio a Suicídio
+│   │   │   ├── Infanticídio
+│   │   │   ├── Aborto
+│   │   │   ├── Homicídio Agravado pelo Extermínio de Seres Humanos
+│   │   │   └── Feminicídio
+│   │   ├── Lesões Corporais
+│   │   │   ├── Leve
+│   │   │   ├── Seguida de Morte
+│   │   │   ├── Grave
+│   │   │   ├── Gravíssima
+│   │   │   ├── Privilegiada
+│   │   │   └── Decorrente de Violência Doméstica
+│   │   │       ├── Contra a mulher
+│   │   │       └── Contra pessoas não identificadas como mulher
+│   │   ├── Periclitação da Vida e da Saúde e Rixa
+│   │   │   ├── Perigo de contágio de moléstia grave
+│   │   │   ├── Perigo para a vida ou saúde de outrem (art. 132)
+│   │   │   ├── Abandono de incapaz (art. 133)
+│   │   │   ├── Omissão de socorro (art. 135)
+│   │   │   ├── Rixa (art. 137)
+│   │   │   └── Perigo de Contágio Venéreo
+│   │   ├── Contra a Honra
+│   │   │   ├── Calúnia
+│   │   │   ├── Difamação
+│   │   │   └── Injúria
+│   │   │       ├── Simples
+│   │   │       ├── Real
+│   │   │       └── Preconceituosa
+│   │   ├── Contra a liberdade pessoal
+│   │   │   ├── Constrangimento ilegal (art. 146)
+│   │   │   ├── Ameaça (art. 147)
+│   │   │   ├── Seqüestro e cárcere privado (art. 148)
+│   │   │   └── Redução a condição análoga à de escravo (art. 149)
+│   │   ├── Contra a inviolabilidade de domicílio
+│   │   │   └── Violação de domicílio (art. 150)
+│   │   ├── Contra a inviolabilidade de correspondência
+│   │   │   ├── Violação de correspondência (art. 151, caput)
+│   │   │   ├── Sonegação ou destruição de correspondência (art. 151, § 1º, I)
+│   │   │   ├── Violação de comunicação telegráfica, radioelétrica ou telefônica (art. 151, § 1º, II, III e IV)
+│   │   │   └── Violação de Correspondência comercial (art. 152)
+│   │   ├── Contra a inviolabilidade de segredo
+│   │   │   ├── Divulgação de segredo (art. 153)
+│   │   │   └── Violação do segredo profissional (art. 154)
+│   │   ├── Contra o Patrimônio
+│   │   │   ├── Furto (art. 155)
+│   │   │   ├── Furto Qualificado (Art. 155, § 4o.)
+│   │   │   ├── Furto de coisa comum (art. 156)
+│   │   │   ├── Roubo (art. 157)
+│   │   │   ├── Extorsão (art. 158)
+│   │   │   ├── Extorsão mediante seqüestro (art. 159)
+│   │   │   ├── Extorsão indireta (art. 160)
+│   │   │   ├── Alteração de limites (art. 161, caput)
+│   │   │   ├── Usurpação de águas (art. 161, § 1º, I)
+│   │   │   ├── Esbulho possessório (art. 161, § 1º, II)
+│   │   │   ├── Dano (art. 163)
+│   │   │   ├── Introdução ou abandono de animais em propriedade alheia (art. 164)
+│   │   │   ├── Dano em coisa de valor artístico, arqueológico ou histórico (art. 165)
+│   │   │   ├── Alteração de local especialmente protegido (art. 166)
+│   │   │   ├── Apropriação indébita Previdenciária (art. 168-A e Lei 8.212/91)
+│   │   │   ├── Estelionato
+│   │   │   ├── Estelionato Majorado (art. 171, § 3º)
+│   │   │   ├── Outras fraudes
+│   │   │   ├── Fraude à execução (art. 179)
+│   │   │   ├── Receptação
+│   │   │   ├── Apropriação indébita (art. 168, caput)
+│   │   │   ├── Apropriação de Coisa Havida por Erro, Caso Fortuito ou Força da Natureza (art.169)
+│   │   │   ├── Furto Privilegiado
+│   │   │   ├── Furto de Veículo Automotor a ser Transportado para outro Estado ou Exterior
+│   │   │   ├── Roubo Majorado
+│   │   │   ├── Latrocínio
+│   │   │   ├── Extorsão mediante Seqüestro Seguida de Morte
+│   │   │   ├── Extorsão mediante Sequestro Seguida de Lesão Corporal Grave
+│   │   │   ├── Supressão ou Alteração de Marca em Animais
+│   │   │   ├── Dano Qualificado
+│   │   │   ├── Apropriação de Tesouro
+│   │   │   ├── Apropriação de Coisa Achada
+│   │   │   ├── Disposição de coisa alheia como própria
+│   │   │   ├── Alienação ou Oneração Fraudulenta de Coisa Própria
+│   │   │   ├── Defraudação de Penhor
+│   │   │   ├── Fraude na Entrega de Coisa
+│   │   │   ├── Fraude para Recebimento de Indenização ou Valor de Seguro
+│   │   │   ├── Fraude no Pagamento por Meio de Cheque
+│   │   │   ├── Duplicata Simulada
+│   │   │   ├── Abuso de Incapazes
+│   │   │   ├── Induzimento à Especulação
+│   │   │   ├── Fraude no Comércio
+│   │   │   ├── Fraudes e Abusos na Fundação ou Administração de Sociedade por Ações
+│   │   │   ├── Emissão Irregular de Conhecimento de Depósito ou &quot;Warrant&quot;
+│   │   │   ├── Receptação Qualificada
+│   │   │   ├── Receptação culposa
+│   │   │   └── Roubo qualificado
+│   │   ├── Contra a Propriedade Intelectual
+│   │   │   └── Violação de direito autoral
+│   │   ├── Contra a Organização do Trabalho
+│   │   │   ├── Atentado contra a liberdade de trabalho (art. 197)
+│   │   │   ├── Atentado contra a liberdade de contrato de trabalho e boicotagem violenta (art. 198)
+│   │   │   ├── Atentado contra a liberdade de associação (art. 199)
+│   │   │   ├── Paralisação de trabalho, seguida de violência ou perturbação da ordem (art. 200)
+│   │   │   ├── Paralisação de trabalho de interesse coletivo (art. 201)
+│   │   │   ├── Invasão de estabelecimento industrial, comercial ou agrícola. Sabotagem (art. 202)
+│   │   │   ├── Frustração de direitos assegurados por lei trabalhista (art. 203)
+│   │   │   ├── Exercício de atividade com infração de decisão administrativa (art. 205)
+│   │   │   ├── Aliciamento para fins de emigração (art. 206)
+│   │   │   ├── Aliciamento de trabalhadores de um local para outro do território nacional (art. 207)
+│   │   │   └── Frustração de lei sobre a nacionalização do trabalho (art. 204)
+│   │   ├── Contra o sentimento religioso e contra o respeito aos mortos
+│   │   │   ├── Destruição / Subração / Ocultação de Cadáver
+│   │   │   ├── Impedimento ou Perturbação de Cerimônia Funerária (Art. 209)
+│   │   │   ├── Vilipêndio a Cadáver
+│   │   │   ├── Violação a Sepultura (Art. 210)
+│   │   │   └── Ultraje / Impedimento ou Perturbação de Culto Religioso
+│   │   ├── Contra a dignidade sexual
+│   │   │   ├── Tráfico Internacional de Pessoa para Fim de Exploração Sexual 
+│   │   │   ├── Estupro 
+│   │   │   ├── Atentado Violento ao Pudor
+│   │   │   ├── Atentado ao Pudor Mediante Fraude
+│   │   │   ├── Corrupção de Menores
+│   │   │   ├── Ultraje Público ao Pudor (Ato/Escrito Obsceno)
+│   │   │   ├── Mediação para Servir a Lascívia de Outrem 
+│   │   │   ├── Posse Sexual Mediante Fraude
+│   │   │   ├── Assédio Sexual
+│   │   │   ├── Favorecimento da Prostituição
+│   │   │   ├── Casa de Prostituição
+│   │   │   ├── Rufianismo
+│   │   │   ├── Tráfico Internacional de Pessoas
+│   │   │   ├── Tráfico Interno de Pessoas
+│   │   │   ├── Estupro de Vulnerável
+│   │   │   ├── Favorecimento de Prostituição ou Outra Forma de Exploração Sexual 
+│   │   │   ├── Favorecimento de Prostituição ou Outra Forma de Exploração Sexual de Vulnerável
+│   │   │   ├── Satisfação de Lascívia Mediante Presença de Criança ou Adolescente
+│   │   │   ├── Tráfico Interno de Pessoa para Fim de Exploração Sexual
+│   │   │   ├── Violação Sexual Mediante Fraude
+│   │   │   ├── Importunação Sexual
+│   │   │   └── Divulgação de cena de estupro, sexo ou pornografia
+│   │   ├── Contra a Família
+│   │   │   ├── Crimes Contra a Assistência Familiar
+│   │   │   │   ├── Abandono Material
+│   │   │   │   ├── Abandono Intelectual
+│   │   │   │   └── Entrega de Filho Menor a Pessoa Inidônea
+│   │   │   ├── Crimes contra o Casamento
+│   │   │   │   ├── Bigamia
+│   │   │   │   ├── Conhecimento Prévio de Impedimento
+│   │   │   │   ├── Induzimento a erro essencial e ocultação de impedimento
+│   │   │   │   ├── Simulação de Casamento
+│   │   │   │   └── Simulação de Autoridade para Celebração de Casamento
+│   │   │   ├── Crimes Contra o Estado de Filiação
+│   │   │   │   ├── Parto Suposto (Art. 242)
+│   │   │   │   ├── Registro de Nascimento Inexistente (Art. 241)
+│   │   │   │   └── Sonegação do Estado de Filiação (Art. 243)
+│   │   │   └── Crime contra o Pátrio-Poder e Tutela
+│   │   │       ├── Induzimento a Fuga, Entrega Arbitrária ou Sonegação de Incapazes (Art. 248)
+│   │   │       └── Subtração de Incapazes (Art. 249)
+│   │   ├── Contra a Incolumidade Pública
+│   │   │   ├── Incêndio
+│   │   │   ├── Explosão 
+│   │   │   ├── Uso de gás tóxico ou asfixiante 
+│   │   │   ├── Inundação / Perigo de Inundação
+│   │   │   ├── Desabamento ou desmoronamento (art. 256)
+│   │   │   ├── Subtração, ocultação ou inutilização de material de salvamento (art. 257)
+│   │   │   ├── Difusão de doença ou praga (art. 259)
+│   │   │   ├── Desastre ferroviário / Perigo de Desastre Ferroviário
+│   │   │   ├── Atentado contra a segurança de transporte público
+│   │   │   ├── Arremesso de projétil
+│   │   │   ├── Atentado contra a segurança de serviços de utilidade pública (art. 265)
+│   │   │   ├── Interrupção /perturbação de serviços telegráficos/telefônicos (art. 266)
+│   │   │   ├── Epidemia (art. 267)
+│   │   │   ├── Emprego de Processo Proibido/Substância não permitida
+│   │   │   ├── Invólucro ou recipiente com falsa indicação (art. 275)
+│   │   │   ├── Falsificação / Corrupção / Adulteração / Alteração de produto destinado a fins terapêuticos ou medicinais
+│   │   │   ├── Exercício Ilegal da Medicina, Arte Dentária ou Farmacêutica (art. 282)
+│   │   │   ├── Charlatanismo (Art. 283)
+│   │   │   ├── Corrupção ou Poluição de Água Potável (Art. 271)
+│   │   │   ├── Curandeirismo (Art. 284)
+│   │   │   ├── Envenenamento de Água Potável / Substância Alimentícia ou Medicinal (Art. 270)
+│   │   │   ├── Falsificação / Corrupção / Adulteração / Alteração de Substância ou Produtos Alimentícios
+│   │   │   ├── Infração de Medida Sanitária Preventiva (Art. 268)
+│   │   │   ├── Omissão de Notificação de Doença (Art. 269)
+│   │   │   ├── Outras Substâncias Nocivas a Saúde Pública (Art. 278)
+│   │   │   ├── Substância Destinada à Falsificação (Art. 277)
+│   │   │   ├── Fabrico / Fornecimento / Aquisição / Posse ou Transporte de Explosivos ou Gás Tóxico ou Asfixiante
+│   │   │   ├── Venda de Produtos ou Substância nas Condições dos Artigos 274 e 275 
+│   │   │   ├── Medicamento em Desacordo com Receita Médica
+│   │   │   ├── Incêndio culposo
+│   │   │   ├── Explosão culposa
+│   │   │   ├── Uso culposo de gás tóxico ou asfixiante
+│   │   │   ├── Inundação culposa
+│   │   │   ├── Desabamento ou desmoronamento culposo
+│   │   │   ├── Difusão culposa de doença ou praga
+│   │   │   └── Desastre ferroviário culposo
+│   │   ├── Contra a Paz Pública
+│   │   │   ├── Quadrilha ou Bando (art. 288)
+│   │   │   ├── Incitação ao Crime
+│   │   │   └── Apologia de Crime ou Criminoso
+│   │   ├── Contra a Fé Pública
+│   │   │   ├── Moeda Falsa / Assimilados
+│   │   │   ├── Petrechos para falsificação de moeda (art. 291)
+│   │   │   ├── Emissão de título ao portador sem permissão legal (art. 292)
+│   │   │   ├── Falsificação de papéis públicos (art. 293)
+│   │   │   ├── Falsificação do selo ou sinal público (art. 296)
+│   │   │   ├── Falsificação de documento público
+│   │   │   ├── Falsificação de documento particular (art. 298)
+│   │   │   ├── Falsidade ideológica (art. 299)
+│   │   │   ├── Falso reconhecimento de firma ou letra (art. 300)
+│   │   │   ├── Certidão ou atestado ideologicamente falso (art. 301, caput)
+│   │   │   ├── Falsidade material de atestado ou certidão (art. 301, § 1º)
+│   │   │   ├── Falsidade de atestado médico (art. 302)
+│   │   │   ├── Reprodução ou adulteração de selo ou peça filatélica (art. 303)
+│   │   │   ├── Uso de documento falso (art. 304)
+│   │   │   ├── Supressão de documento (art. 305)
+│   │   │   ├── Falsificação do sinal empregado no contraste de metal precioso ou na fiscalização alfandegária, ou para outros fins (art. 306)
+│   │   │   ├── Falsa identidade 
+│   │   │   ├── Fraude de lei sobre estrangeiros
+│   │   │   ├── Petrechos de Falsificação de Papéis Públicos
+│   │   │   └── Adulteração de Sinal Identificador de Veículo Automotor
+│   │   ├── Praticados por Funcionários Públicos Contra a Administração em Geral
+│   │   │   ├── Peculato (art. 312, caput e § 1º)
+│   │   │   ├── Peculato mediante erro de outrem (art. 313)
+│   │   │   ├── Extravio, sonegação ou inutilização de livro ou documento (art. 314)
+│   │   │   ├── Emprego irregular de verbas ou rendas públicas (art. 315)
+│   │   │   ├── Concussão (art. 316, caput)
+│   │   │   ├── Excesso de exação (art. 316, §§ 1º e 2º)
+│   │   │   ├── Corrupção passiva (art. 317)
+│   │   │   ├── Facilitação de contrabando ou descaminho (art. 318)
+│   │   │   ├── Prevaricação
+│   │   │   ├── Condescendência criminosa (art. 320)
+│   │   │   ├── Advocacia administrativa (art. 321)
+│   │   │   ├── Violência arbitrária (art. 322)
+│   │   │   ├── Abandono de função (art. 323)
+│   │   │   ├── Exercício funcional ilegalmente antecipado ou prolongado (art. 324)
+│   │   │   ├── Violação do sigilo funcional (art. 325)
+│   │   │   ├── Violação do sigilo de proposta de concorrência (art. 326)
+│   │   │   ├── Inserção de dados falsos em sistema de informações (art. 313-A)
+│   │   │   └── Modificação ou alteração não autorizada de sistema de informações (art. 313-B)
+│   │   ├── Previstos na Legislação Extravagante
+│   │   │   ├── Contra a Propriedade Industrial
+│   │   │   │   ├── Contra Patente de Invenção
+│   │   │   │   ├── Contra os Desenhos Industriais
+│   │   │   │   ├── Contra as Marcas
+│   │   │   │   ├── Cometidos por Meio de Marca, Título de Estabelecimento e Sinal de Propaganda 
+│   │   │   │   ├── Contra Indicações Geográficas e Demais Indicações
+│   │   │   │   └── De Concorrência Desleal
+│   │   │   ├── de Responsabilidade
+│   │   │   ├── Contra a Economia Popular
+│   │   │   ├── de Abuso de Autoridade
+│   │   │   ├── De Tráfico Ilícito e Uso Indevido de Drogas
+│   │   │   │   ├── Tráfico de Drogas e Condutas Afins
+│   │   │   │   ├── Posse de Drogas para Consumo Pessoal
+│   │   │   │   ├── Fabricação de Objeto Destinado a Produção de Drogas e Condutas Afins 
+│   │   │   │   ├── Indução, Instigação ou Auxílio ao Uso de Drogas
+│   │   │   │   ├── Oferecimento de Drogas para Consumo Conjunto
+│   │   │   │   ├── Associação para a Produção e Tráfico e Condutas Afins
+│   │   │   │   ├── Financiamento ou Custeio de Produção ou Tráfico de Drogas
+│   │   │   │   ├── Colaboração com Grupo, Organização ou Associação Destinados à Produção ou Tráfico de Drogas 
+│   │   │   │   ├── Prescrição Culposa de Drogas
+│   │   │   │   └── Condução de Embarcação ou Aeronave sob Efeito de Drogas
+│   │   │   ├── Responsabilidade Criminal por Danos Nucleares
+│   │   │   ├── Contra o Serviço Postal e o Serviço de Telegrama
+│   │   │   ├── Contra a Segurança Nacional, a Ordem Política e Social
+│   │   │   ├── Contra o Sistema Financeiro Nacional
+│   │   │   ├── Resultante de Preconceito de Raça ou de Cor
+│   │   │   ├── Contra a Ordem Tributária
+│   │   │   ├── Contra a Ordem Econômica
+│   │   │   ├── Contra as Relações de Consumo
+│   │   │   ├── Representação caluniosa
+│   │   │   ├── Contra o Meio Ambiente
+│   │   │   │   ├── Contra a Fauna
+│   │   │   │   ├── Contra a Flora
+│   │   │   │   ├── Da Poluição
+│   │   │   │   ├── Agrotóxicos (Lei 7.802/89)
+│   │   │   │   ├── Atividades Nucleares (Lei 6.453/77)
+│   │   │   │   ├── Caça (Lei nº 5.197/67)
+│   │   │   │   ├── Genética (Lei nº 8.974/95)
+│   │   │   │   ├── Pesca (Lei nº 5.197/67, Lei nº 7.643/87, Lei 7.679/88, DL 221/67)
+│   │   │   │   └── Contra o Ordenamento Urbano e o Patrimônio Cultural
+│   │   │   ├── De &quot;Lavagem&quot; ou Ocultação de Bens, Direitos ou Valores
+│   │   │   ├── Contra as Telecomunicações
+│   │   │   ├── Previstos na Lei de Estrangeiros
+│   │   │   ├── De Tortura
+│   │   │   ├── De Trânsito
+│   │   │   ├── Do Sistema Nacional de Armas
+│   │   │   ├── De Imprensa
+│   │   │   ├── Estatuto da criança e do adolescente
+│   │   │   ├── Contra o mercado de capitais
+│   │   │   ├── De genocídio
+│   │   │   ├── Sigilo Telefônico
+│   │   │   ├── Da Lei de licitações
+│   │   │   ├── Da Lei de remoção de órgãos e tecidos
+│   │   │   ├── Praticados contra os índios e a cultura indígena
+│   │   │   ├── Recusa, retardamento ou omissão de dados técnicos indispensáveis à propositura de Ação Civil Pública
+│   │   │   ├── Agrários
+│   │   │   ├── Relacionados à Comissão Parlamentar de Inquérito
+│   │   │   ├── Eleitorais
+│   │   │   ├── De Quebra de Sigilo Financeiro
+│   │   │   ├── Do Código Brasileiro de Telecomunicações
+│   │   │   ├── Estatuto do Idoso
+│   │   │   ├── Parcelamento do solo urbano
+│   │   │   ├── Falimentares
+│   │   │   ├── Militares
+│   │   │   ├── Contra a Administração da Justiça - Lei da Ação de Alimentos 
+│   │   │   ├── Previstos no Estatuto do Torcedor
+│   │   │   ├── Da Lei do Planejamento Familiar
+│   │   │   ├── Sobre Produção, Comércio e Transporte Clandestino de Açúcar e Álcool
+│   │   │   ├── Relacionado à Exportação de Bens Sensíveis e Serviços Diretamente Relacionados
+│   │   │   ├── da Lei Sobre Permissão de Lavra Garimpeira
+│   │   │   ├── Da Lei que Proíbe Práticas Discriminatórias para Efeitos Trabalhistas
+│   │   │   ├── Da Lei de Proteção à Propriedade Intelectual de Programa de Computador
+│   │   │   ├── Da Lei de Locação de Imóveis Urbanos
+│   │   │   ├── Da Lei Geral da Copa
+│   │   │   └── Estatuto do Torcedor
+│   │   ├── Contravenções Penais
+│   │   ├── Análogo a Crime Tentado
+│   │   ├── Análogo a Crime Culposo
+│   │   ├── Praticados por Particular Contra a Administração em Geral
+│   │   │   ├── Usurpação de função pública (art. 328)
+│   │   │   ├── Resistência (art. 329)
+│   │   │   ├── Tráfico de influência (art. 332)
+│   │   │   ├── Corrupção ativa (art. 333)
+│   │   │   ├── Impedimento, perturbação ou fraude de concorrência (art. 335)
+│   │   │   ├── Inutilização de edital ou de sinal (art. 336)
+│   │   │   ├── Subtração ou inutilização de livro ou documento (art. 337, caput)
+│   │   │   ├── Desobediência (art. 330)
+│   │   │   ├── Desacato (art. 331)
+│   │   │   ├── Contrabando ou descaminho (art. 334)
+│   │   │   └── Sonegação de contribuição previdenciária (art. 337-A e Lei 8.212/91)
+│   │   ├── Praticados por Particular Contra a Administração Pública Estrangeira
+│   │   │   ├── Corrupção Ativa em Transação Comercial Internacional
+│   │   │   └── Tráfico de Influência em Transação Comercial Internacional
+│   │   ├── Contra a Administração da Justiça
+│   │   │   ├── Reingresso de estrangeiro expulso
+│   │   │   ├── Denunciação caluniosa
+│   │   │   ├── Comunicação falsa de crime ou de contravenção
+│   │   │   ├── Auto-acusação falsa
+│   │   │   ├── Falso testemunho ou falsa perícia
+│   │   │   ├── Coação no curso do processo
+│   │   │   ├── Exercício arbitrário das próprias razões
+│   │   │   ├── Fraude processual
+│   │   │   ├── Favorecimento pessoal
+│   │   │   ├── Favorecimento real
+│   │   │   ├── Exercício arbitrário ou abuso de poder
+│   │   │   ├── Fuga de pessoa presa ou submetida a medida de segurança
+│   │   │   ├── Evasão mediante violência contra a pessoa
+│   │   │   ├── Arrebatamento de preso
+│   │   │   ├── Motim de presos
+│   │   │   ├── Patrocínio infiel
+│   │   │   ├── Patrocínio simultâneo ou tergiversação
+│   │   │   ├── Sonegação de papel ou objeto de valor probatório
+│   │   │   ├── Exploração de prestígio
+│   │   │   ├── Violência ou fraude em arrematação judicial
+│   │   │   ├── Desobediência a decisão judicial sobre perda ou suspensão de direitos
+│   │   │   └── Entrada de aparelho telefônico de comunicação móvel em estabelecimento prisional
+│   │   ├── Contra as Finanças Públicas
+│   │   │   ├── Contratação de Operação de Crédito
+│   │   │   ├── Inscrição de Despesas Não Empenhadas
+│   │   │   ├── Assunção de Obrigação no Último Ano do Mandato ou Legislatura
+│   │   │   ├── Ordenação de Despesa Não Autorizada
+│   │   │   ├── Prestação de Garantia Graciosa
+│   │   │   ├── Não Cancelamento de Restos a Pagar
+│   │   │   ├── Aumento de Despesa com Pessoal no Último Ano do Mandato ou Legislatura
+│   │   │   └── Oferta Pública ou Colocação de Títulos no Mercado
+│   │   └── Violência Doméstica Contra a Mulher
+│   ├── Seção Cível
+│   │   ├── Abandono Material
+│   │   ├── Abandono Intelectual
+│   │   ├── Maus Tratos
+│   │   ├── Abuso Sexual
+│   │   ├── Exploração do Trabalho Infantil
+│   │   ├── Pobreza
+│   │   ├── Uso ou Tráfico de Drogas
+│   │   ├── Adoção Internacional
+│   │   ├── Adoção Nacional
+│   │   ├── Adoção de Criança
+│   │   ├── Adoção de Adolescente
+│   │   ├── Entrada e Permanência de Menores
+│   │   ├── Viagem ao Exterior
+│   │   ├── Trabalho do adolescente
+│   │   ├── Viagem Nacional
+│   │   ├── Infrações administrativas
+│   │   ├── Fundos
+│   │   ├── Medidas de proteção
+│   │   │   ├── Encaminhamento aos pais ou responsável
+│   │   │   ├── Orientação e acompanhamento temporário
+│   │   │   ├── Matrícula e frequência obrigatória em escola oficial de ensino fundamental
+│   │   │   ├── Inclusão em programa de auxílio à família
+│   │   │   ├── Requisição de tratamento médico, psicológico ou psiquiátrico, em regime hospitalar ou ambulatorial
+│   │   │   ├── Inclusão em programa de auzílio, orientação e tratamento a alcoólatras e toxicômanos
+│   │   │   ├── Acolhimento institucional
+│   │   │   ├── Inclusão em programa de acolhimento familiar
+│   │   │   ├── Colocação em família substituta
+│   │   │   └── Outras medidas de proteção
+│   │   ├── Classificação indicativa
+│   │   ├── Entidades de atendimento
+│   │   ├── Conselhos tutelares
+│   │   ├── Exploração Sexual
+│   │   ├── Evasão Escolar
+│   │   ├── Exploração Sexual ou Prostituição
+│   │   ├── Perda ou Modificação de Guarda
+│   │   └── Apadrinhamento de Criança ou Adolescente
+│   └── Medidas Sócio-educativas
+│       ├── Advertência
+│       ├── Internação com atividades externas
+│       ├── Internação sem atividades externas
+│       ├── Liberdade assistida
+│       ├── Obrigação de reparar o dano
+│       ├── Prestação de serviços à comunidade
+│       ├── Semiliberdade
+│       ├── Internação Compulsória
+│       └── Internação Provisória
+├── DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO PÚBLICO
+│   ├── Garantias Constitucionais
+│   │   ├── Anistia Política
+│   │   ├── Direitos Indígenas
+│   │   ├── Intervenção em Estado / Município
+│   │   ├── Proteção da Intimidade e Sigilo de Dados
+│   │   ├── Pessoa Idosa
+│   │   ├── Pessoas com deficiência
+│   │   ├── Minorias Étnicas
+│   │   ├── Comunicação Social
+│   │   ├── Moradia
+│   │   ├── Assistência Social
+│   │   ├── Alimentação
+│   │   └── Não Discriminação
+│   ├── Responsabilidade da Administração
+│   │   ├── Indenização por Dano Moral
+│   │   │   ├── Erro Médico
+│   │   │   ├── Acidente de Trânsito
+│   │   │   ├── Cancelamento / Duplicidade de CPF
+│   │   │   └── Inscrição Indevida no CADIN
+│   │   ├── Indenização por Dano Ambiental
+│   │   └── Indenização por Dano Material
+│   │       ├── Erro Médico
+│   │       ├── Acidente de Trânsito
+│   │       └── Variação Cambial
+│   ├── Atos Administrativos
+│   │   ├── Licenças
+│   │   │   ├── Declaração de Bagagem
+│   │   │   ├── Declaração de Trânsito Aduaneiro
+│   │   │   ├── Comercialização sem Restrições de Produtos Industrializados
+│   │   │   ├── Comercialização sem Restrições de Gêneros Alimentícios
+│   │   │   ├── Comercialização e/ou Utilização sem Restrições de Medicamentos
+│   │   │   ├── Funcionamento de Comércio de Derivados de Petróleo
+│   │   │   ├── Registro de Empresa
+│   │   │   ├── Funcionamento de Estabelecimentos Empresariais
+│   │   │   ├── Registro / Porte de arma de fogo
+│   │   │   ├── Registro de Aeronave
+│   │   │   ├── Loterias/Sorteio
+│   │   │   └── Jogos de Bingo e/ou Caça-níqueis
+│   │   ├── Inquérito / Processo / Recurso Administrativo
+│   │   ├── Ato Lesivo ao Patrimônio Artístico, Estético, Histórico ou Turístico
+│   │   ├── Improbidade Administrativa
+│   │   │   ├── Dano ao Erário
+│   │   │   ├── Enriquecimento ilícito
+│   │   │   └── Violação aos Princípios Administrativos
+│   │   ├── Fiscalização
+│   │   │   ├── Inspeção Fitossanitária
+│   │   │   ├── Exportação/Vedações
+│   │   │   ├── Inspeção Sanitária de Origem Animal
+│   │   │   ├── Segurança e Medicina do Trabalho
+│   │   │   ├── Competência do Órgão Fiscalizador
+│   │   │   ├── Inspeção
+│   │   │   ├── Investigação Patrimonial
+│   │   │   └── Inspeção das Rotinas Administrativas
+│   │   ├── Registro de Trabalho Portuário/Órgão de Gestão de Mão-de-Obra
+│   │   ├── Registro de Marcas, Patentes ou Invenções
+│   │   ├── Infração Administrativa
+│   │   │   ├── Multas e demais Sanções
+│   │   │   ├── Interdição
+│   │   │   └── Apreensão
+│   │   ├── Registro de Direito Autoral
+│   │   ├── Registro de Programa de Computador
+│   │   ├── Abuso de Poder
+│   │   ├── Ato Normativo
+│   │   │   ├── Resolução
+│   │   │   ├── Recomendação
+│   │   │   └── Resolução Conjunta
+│   │   ├── Revisão/Desconstituição de Ato Administrativo
+│   │   ├── Nulidade de ato administrativo
+│   │   └── Providência
+│   ├── Serviços
+│   │   ├── Ensino Superior
+│   │   │   ├── Matrícula
+│   │   │   ├── Financiamento Público da Educação e/ou Pesquisa
+│   │   │   ├── Colação de Grau
+│   │   │   ├── Exigência de Estágio Profissionalizante
+│   │   │   ├── Transferência de Estudante
+│   │   │   ├── Freqüência às Aulas
+│   │   │   ├── Penalidades Disciplinares
+│   │   │   ├── Colisão de Horário
+│   │   │   ├── Vestibular
+│   │   │   ├── Mensalidades
+│   │   │   ├── Currículo Escolar
+│   │   │   ├── Ingresso no Curso Superior
+│   │   │   ├── Jubilamento de Aluno
+│   │   │   ├── Criação e/ou Autorização para funcionamento de Curso Superior
+│   │   │   ├── Omissão de Entrega de Notas
+│   │   │   ├── Diplomas/Certificado de Conclusão do Curso
+│   │   │   ├── Financiamento Privado da Educação e/ou Pesquisa
+│   │   │   ├── Residência Médica
+│   │   │   ├── Provão - Avaliação da Educação Superior
+│   │   │   ├── Sistemas de cotas - Lei 10.558/2002
+│   │   │   └── Pós-Graduação
+│   │   ├── Ensino Fundamental e Médio
+│   │   │   ├── Mensalidade
+│   │   │   ├── Matrícula
+│   │   │   ├── Material Didático
+│   │   │   ├── Exame Nacional de Ensino Médio / ENEM
+│   │   │   ├── Penalidades Disciplinares
+│   │   │   ├── Transferência
+│   │   │   ├── Ensino Especial
+│   │   │   ├── Exame Supletivo
+│   │   │   ├── Merenda
+│   │   │   ├── Transporte
+│   │   │   ├── Educação Pré-escolar
+│   │   │   └── Educação Profissionalizante
+│   │   ├── Saúde
+│   │   │   ├── Repasse de Verbas do SUS
+│   │   │   ├── Reajuste da Tabela do SUS
+│   │   │   ├── Convênio Médico com o SUS
+│   │   │   ├── Tratamento Médico-Hospitalar e/ou Fornecimento de Medicamentos
+│   │   │   │   ├── Prescrição por Médico não vinculado ao SUS
+│   │   │   │   └── Medicamento / Tratamento / Cirurgia de Eficácia não comprovada
+│   │   │   ├── Ressarcimento ao SUS
+│   │   │   ├── Genética / Células Tronco
+│   │   │   ├── Terceirização do SUS
+│   │   │   ├── Financiamento do SUS
+│   │   │   ├── Vigilância Sanitária e Epidemiológica
+│   │   │   ├── Saúde Mental
+│   │   │   │   ├── Internação Compulsória
+│   │   │   │   ├── Internação Voluntária
+│   │   │   │   └── Internação Involuntária
+│   │   │   ├── Controle Social e Conselhos de Saúde
+│   │   │   ├── Hospitais e Outras Unidades de Saúde
+│   │   │   ├── Doação e Transplante de Órgãos; Tecidos e Partes do Corpo Humano
+│   │   │   ├── Tratamento Médico-Hospitalar
+│   │   │   │   └── Unidade de terapia intensiva (UTI) ou unidade de cuidados intensivos (UCI)
+│   │   │   └── Fornecimento de Medicamentos
+│   │   ├── Sistema Nacional do Desporto
+│   │   ├── Concessão / Permissão / Autorização
+│   │   │   ├── Fornecimento de Gás
+│   │   │   ├── Energia Elétrica
+│   │   │   ├── Transporte Terrestre
+│   │   │   ├── Transporte Aéreo - Aeroporto
+│   │   │   ├── Radiodifusão
+│   │   │   ├── Telefonia
+│   │   │   ├── Transporte Aquaviário
+│   │   │   ├── Serviço Postal
+│   │   │   ├── Tabelionatos, Registros, Cartórios
+│   │   │   │   ├── Vacância
+│   │   │   │   ├── Remoção
+│   │   │   │   ├── Desmembramento
+│   │   │   │   ├── Cumulação
+│   │   │   │   ├── Emolumentos
+│   │   │   │   ├── Fraude
+│   │   │   │   ├── Gratuidade
+│   │   │   │   ├── Princípio da Territorialidade
+│   │   │   │   ├── Provimento Irregular
+│   │   │   │   ├── Registro Civil de Nascimento
+│   │   │   │   └── Registro de Imóveis
+│   │   │   ├── Água e/ou Esgoto
+│   │   │   ├── Recolhimento e Tratamento de Lixo
+│   │   │   └── Passe livre em transporte
+│   │   └── Defensoria Pública
+│   ├── Domínio Público
+│   │   ├── Bens Públicos
+│   │   │   ├── Locação / Permissão / Concessão / Autorização / Cessão de Uso
+│   │   │   ├── Terreno de Marinha
+│   │   │   ├── Taxa de Ocupação
+│   │   │   ├── Foro / Laudêmio
+│   │   │   ├── Terras Devolutas
+│   │   │   ├── Águas Públicas
+│   │   │   ├── Bloqueio de Valores de Contas Públicas
+│   │   │   └── Utilização de bens públicos
+│   │   ├── Imóvel Funcional
+│   │   │   ├── Alienação
+│   │   │   ├── Ocupação
+│   │   │   ├── Reintegração de Posse
+│   │   │   └── Taxa de Ocupação
+│   │   ├── Terras Indígenas
+│   │   │   ├── Terreno Aldeado
+│   │   │   ├── Restituição de área - FUNAI
+│   │   │   └── Demarcação
+│   │   ├── Recursos Minerais
+│   │   ├── Espaço Aéreo
+│   │   ├── Patrimônio Histórico / Tombamento
+│   │   ├── Ordenação da Cidade / Plano Diretor
+│   │   └── Privatização
+│   ├── Meio Ambiente
+│   │   ├── Revogação/Concessão de Licença Ambiental
+│   │   ├── Revogação/Anulação de multa ambiental
+│   │   ├── Flora
+│   │   ├── Fauna
+│   │   ├── Transgênicos
+│   │   ├── Agrotóxicos
+│   │   ├── Unidade de Conservação da Natureza
+│   │   ├── Gestão de Florestas Públicas
+│   │   ├── Mineração
+│   │   ├── Reserva legal
+│   │   ├── Recursos Hídricos
+│   │   ├── Poluição
+│   │   ├── Zoneamento Ecológico e Econômico
+│   │   ├── Zona Costeira
+│   │   ├── Área de Preservação Permanente
+│   │   ├── Produtos Controlados / Perigosos
+│   │   ├── Patrimônio Cultural
+│   │   ├── Saneamento
+│   │   └── Saneamento
+│   ├── Intervenção do Estado na Propriedade
+│   │   ├── Desapropriação
+│   │   ├── Desapropriação por Utilidade Pública / DL 3.365/1941
+│   │   ├── Desapropriação por Interesse Social Comum / L 4.132/1962
+│   │   ├── Desapropriação por Interesse Social para Reforma Agrária
+│   │   ├── Desapropriação Indireta
+│   │   ├── Retrocessão
+│   │   ├── Vistoria
+│   │   ├── Servidão Administrativa
+│   │   ├── Ocupação Temporária
+│   │   ├── Limitação Administrativa
+│   │   ├── Restituição de área
+│   │   ├── Direito de Preempção
+│   │   ├── Desapropriação de Imóvel Urbano
+│   │   ├── Requisição de Bem Particular
+│   │   ├── Juros Compensatórios
+│   │   ├── Nulidade do Decreto que autoriza a desapropriação
+│   │   └── Desapropriação para Regularização de Comunidade Quilombola / Dec. 4887/2003
+│   ├── Intervenção no Domínio Econômico
+│   │   ├── Política de Preço Mínimo
+│   │   ├── Controle de Preços
+│   │   ├── Controle de Abastecimento
+│   │   ├── Importações
+│   │   │   ├── Desembaraço Aduaneiro
+│   │   │   ├── Regime ou Certificado de Origem MERCOSUL
+│   │   │   └── Veículo de Turista Comunitário MERCOSUL
+│   │   ├── Incentivo
+│   │   │   └── PROAGRO
+│   │   ├── Proteção à Livre Concorrência
+│   │   │   ├── Venda Casada
+│   │   │   ├── Preços Predatórios
+│   │   │   ├── Acordo de Exclusividade
+│   │   │   ├── Cartel
+│   │   │   ├── Atos de Concentração
+│   │   │   └── Proibição de Privilégio Fiscal às Empresas Públicas e Sociedades de Economia Mista
+│   │   ├── Moeda Estrangeira
+│   │   ├── Expurgos Inflacionários / Planos Econômicos
+│   │   │   ├── Cruzados Novos / Bloqueio
+│   │   │   └── Poupança
+│   │   └── Agências/órgãos de regulação
+│   ├── Organização Político-administrativa / Administração Pública
+│   │   ├── FGTS/Fundo de Garantia por Tempo de Serviço
+│   │   │   ├── Atualização de Conta
+│   │   │   │   └── Termo de Adesão da LC 110/2001
+│   │   │   ├── Liberação de Conta
+│   │   │   ├── Juros Progressivos
+│   │   │   └── Localização de Contas
+│   │   ├── PIS/PASEP
+│   │   │   ├── Atualização de Conta
+│   │   │   └── Liberação de Conta
+│   │   ├── Conselhos Regionais de Fiscalização Profissional e Afins
+│   │   │   ├── Registro Profissional
+│   │   │   ├── Multas e demais Sanções
+│   │   │   ├── Questões Funcionais
+│   │   │   ├── Exame da Ordem OAB
+│   │   │   ├── Eleições
+│   │   │   ├── Anuidades OAB
+│   │   │   └── Exercício Profissional
+│   │   ├── Instituições Financeiras
+│   │   │   ├── Liberação de Depósitos de Instituição Liquidanda
+│   │   │   ├── Normatizações
+│   │   │   ├── Remuneração de Ativos Retidos
+│   │   │   ├── Cooperativas de Crédito
+│   │   │   └── Liquidação extrajudicial
+│   │   ├── Fundo de Participação dos Municípios
+│   │   ├── Seguro desemprego
+│   │   ├── Tribunal de Contas
+│   │   ├── Criação / Extinção / Reestruturação de Orgãos ou Cargos Públicos
+│   │   └── Município
+│   │       ├── Criação
+│   │       └── Desmembramento
+│   ├── Dívida Pública Mobiliária
+│   │   ├── Apólices da Dívida Pública
+│   │   ├── Títulos da Dívida Pública
+│   │   └── Títulos da Dívida Agrária
+│   ├── Agentes Políticos
+│   │   ├── Magistratura
+│   │   │   ├── Remuneração
+│   │   │   ├── Afastamento
+│   │   │   ├── Processo Disciplinar / Sindicância
+│   │   │   ├── Aposentadoria
+│   │   │   │   └── Aposentadoria compulsória (art. 42, V, Lei Complementar 35/1979)
+│   │   │   ├── Promoção
+│   │   │   ├── Remoção
+│   │   │   │   └── Remoção Compulsória
+│   │   │   ├── Quinto Constitucional
+│   │   │   ├── Juizados Especiais
+│   │   │   │   ├── Juiz Leigo
+│   │   │   │   └── Composição de Turmas Recursais
+│   │   │   ├── Licença
+│   │   │   ├── Participação Societária
+│   │   │   ├── Plantão Judiciário
+│   │   │   ├── Residência
+│   │   │   ├── Substituição/Convocação em Tribunal
+│   │   │   ├── Violação Prerrogativa Advogado
+│   │   │   ├── Eleição
+│   │   │   │   ├── Cargos de Direção
+│   │   │   │   └── Órgão Especial
+│   │   │   ├── Morosidade no Julgamento do Processo
+│   │   │   └── Apuração de Infração Disciplinar
+│   │   ├── Ministério Público
+│   │   │   ├── Remuneração
+│   │   │   ├── Afastamento
+│   │   │   ├── Processo Disciplinar / Sindicância
+│   │   │   ├── Aposentadoria
+│   │   │   │   └── Aposentadoria Compulsória
+│   │   │   ├── Promoção
+│   │   │   └── Remoção
+│   │   │       └── Remoção Compulsória
+│   │   ├── Prefeito
+│   │   │   ├── Afastamento do Cargo
+│   │   │   ├── Remuneração
+│   │   │   ├── Recondução
+│   │   │   ├── Prestação de Contas
+│   │   │   └── Indisponibilidade de Bens
+│   │   ├── Governador
+│   │   │   ├── Afastamento do Cargo
+│   │   │   ├── Remuneração
+│   │   │   ├── Recondução
+│   │   │   ├── Prestação de Contas
+│   │   │   └── Indisponibilidade de Bens
+│   │   └── Parlamentares
+│   │       ├── Remuneração
+│   │       │   └── Verba de Representação
+│   │       ├── Afastamento do Cargo
+│   │       ├── Recondução
+│   │       ├── Prestação de Contas
+│   │       ├── Indisponibilidade de Bens
+│   │       └── Aposentadoria / Pensão Especial
+│   ├── Servidor Público Civil
+│   │   ├── Regime Estatutário
+│   │   │   ├── Estabilidade
+│   │   │   ├── Enquadramento
+│   │   │   ├── Recondução
+│   │   │   ├── Acumulação de Cargos
+│   │   │   ├── Reintegração
+│   │   │   ├── Direito de Greve
+│   │   │   ├── Transferência
+│   │   │   ├── Remoção
+│   │   │   ├── Regime Previdenciário
+│   │   │   ├── Anistia Administrativa
+│   │   │   ├── Reversão
+│   │   │   ├── Redistribuição
+│   │   │   ├── Disponibilidade / Aproveitamento
+│   │   │   ├── Lotação
+│   │   │   ├── Promoção / Ascensão
+│   │   │   ├── Readaptação
+│   │   │   ├── Estágio Probatório
+│   │   │   ├── Nomeação
+│   │   │   │   └── Cargo em Comissão
+│   │   │   ├── Posse e Exercício
+│   │   │   ├── Exoneração
+│   │   │   ├── Nepotismo
+│   │   │   ├── Cessão
+│   │   │   ├── Desvio de Função
+│   │   │   └── Provimento de Cargos
+│   │   ├── Pensão
+│   │   │   ├── Provisória
+│   │   │   ├── Concessão
+│   │   │   └── Restabelecimento
+│   │   ├── Aposentadoria
+│   │   │   ├── Invalidez Permanente
+│   │   │   ├── Compulsória
+│   │   │   ├── Voluntária
+│   │   │   └── Especial
+│   │   ├── Licenças / Afastamentos
+│   │   │   ├── Dirigente Sindical
+│   │   │   ├── Licença Capacitação (Aperfeiçoamento Profissional)
+│   │   │   ├── Licença-Prêmio
+│   │   │   │   ├── Contagem em Dobro
+│   │   │   │   └── Pagamento em Pecúnia
+│   │   │   ├── Doença em Pessoa da Família
+│   │   │   ├── Tratamento da Própria Saúde
+│   │   │   ├── Gestante / Adotante / Paternidade
+│   │   │   ├── Interesse Particular
+│   │   │   ├── Serviço Militar
+│   │   │   ├── Atividade Política
+│   │   │   ├── Casamento
+│   │   │   ├── Luto
+│   │   │   ├── Amamentação
+│   │   │   ├── Doação de Sangue
+│   │   │   ├── Alistamento / Serviço Eleitoral
+│   │   │   ├── Acompanhamento de Cônjuge ou Companheiro
+│   │   │   ├── Exercício em Outro Município
+│   │   │   └── Licença por Acidente em Serviço
+│   │   ├── Tempo de Serviço
+│   │   │   ├── Averbação / Contagem de Tempo Especial
+│   │   │   └── Averbação / Contagem Recíproca
+│   │   ├── Processo Administrativo Disciplinar ou Sindicância
+│   │   │   ├── Demissão ou Exoneração
+│   │   │   ├── Advertência
+│   │   │   ├── Suspensão
+│   │   │   ├── Responsabilidade Civil do Servidor Público / Indenização ao Erário
+│   │   │   └── Apuração de Irregularidade no Serviço Público
+│   │   ├── Programa de Desligamento Voluntário (PDV)
+│   │   ├── Jornada de Trabalho
+│   │   ├── Sistema Remuneratório e Benefícios
+│   │   │   ├── Isonomia/Equivalência Salarial
+│   │   │   │   └── Extensão de Vantagem aos Inativos
+│   │   │   ├── Complementação de Benefício/Ferroviário
+│   │   │   ├── Assistência à Saúde
+│   │   │   ├── Assistência Pré-escolar
+│   │   │   ├── Auxílio-Natalidade
+│   │   │   ├── Auxílio-Reclusão
+│   │   │   ├── Auxílio-Funeral
+│   │   │   ├── Salário-Família
+│   │   │   ├── Gratificações da Lei 8.112/1990
+│   │   │   ├── Gratificação de Incentivo
+│   │   │   ├── Adicional de Insalubridade
+│   │   │   │   └── Base de Cálculo
+│   │   │   ├── Adicional de Periculosidade
+│   │   │   ├── Adicional de Fronteira
+│   │   │   ├── Abono Pecuniário (Art. 78 Lei 8.112/1990)
+│   │   │   ├── Gratificação Incorporada / Quintos e Décimos / VPNI
+│   │   │   ├── Descontos Indevidos
+│   │   │   ├── Teto Salarial
+│   │   │   ├── Diárias e Outras Indenizações
+│   │   │   ├── Plano de Classificação de Cargos
+│   │   │   ├── Data Base
+│   │   │   ├── Férias
+│   │   │   │   ├── Fruição / Gozo
+│   │   │   │   └── Indenização / Terço Constitucional
+│   │   │   ├── Adicional por Tempo de Serviço
+│   │   │   │   └── Base de Cálculo
+│   │   │   ├── Adicional de Horas Extras
+│   │   │   ├── Auxílio-Alimentação
+│   │   │   ├── Gratificações de Atividade
+│   │   │   ├── Auxílio-transporte
+│   │   │   ├── Revisão Geral Anual (Mora do Executivo - inciso X, art. 37, CF 1988)
+│   │   │   ├── Adicional de Serviço Noturno
+│   │   │   ├── Adicional de Produtividade
+│   │   │   ├── Gratificação Natalina/13º salário
+│   │   │   ├── Irredutibilidade de Vencimentos
+│   │   │   ├── Piso Salarial
+│   │   │   ├── Inclusão de Dependente
+│   │   │   ├── Subsídios
+│   │   │   ├── Acumulação de Proventos
+│   │   │   ├── Abono de Permanência
+│   │   │   ├── Gratificações Estaduais Específicas
+│   │   │   │   ├── Gratificação de Encargos Especiais - GEE
+│   │   │   │   ├── Gratificação de Estímulo à Produção Individual - GEPI
+│   │   │   │   ├── Gratificação Estadual - AM
+│   │   │   │   ├── Adicional de Etapa Alimentar
+│   │   │   │   ├── Gratificação de Suporte às Atividades Escolares - GSAE
+│   │   │   │   ├── Gratificação por Trabalho Educacional - GTE
+│   │   │   │   ├── Gratificação de Suporte Administrativo - GASA
+│   │   │   │   ├── Gratificação-Prêmio
+│   │   │   │   └── Gratificação Complementar de Vencimento
+│   │   │   ├── Subteto Salarial
+│   │   │   ├── Gratificações Municipais Específicas
+│   │   │   ├── Gratificações Por Atividades Específicas
+│   │   │   │   ├── Gratificação de Desempenho de Atividade Técnico Administrativa - GDATA
+│   │   │   │   ├── Gratificação de Desempenho de Atividade Tributária - GDAT
+│   │   │   │   ├── Gratificação de Desempenho de Atividade de Fiscalização Agropecuária - GDAFA
+│   │   │   │   ├── Gratificação de Desempenho de Atividade Jurídica - GDAJ
+│   │   │   │   ├── Gratificação de Atividade - GATA
+│   │   │   │   ├── Gratificação de Incentivo à Docência - GID
+│   │   │   │   ├── Gratificação de Produção Suplementar - GPS
+│   │   │   │   ├── Gratificação Eleitoral
+│   │   │   │   ├── Gratificação de Inatividade
+│   │   │   │   ├── Gratificação Extraordinária - GE
+│   │   │   │   ├── Gratificação de Desempenho de Função - GADF
+│   │   │   │   ├── Gratificação de Desempenho de Atividade de Seguridade Social e do Trabalho - GDASST
+│   │   │   │   └── Gratificação de Desempenho de Atividade de Ciência e Tecnologia - GDACT
+│   │   │   ├── Adicional de Desempenho
+│   │   │   ├── Adicional de Sexta-Parte
+│   │   │   └── Recebimento de bolsa de estudos
+│   │   ├── Reajustes de Remuneração, Proventos ou Pensão
+│   │   │   ├── Índice da URV fev/1989
+│   │   │   ├── Índice de 84,32% março/1990
+│   │   │   ├── Índice de 45% Lei 8.237/1991
+│   │   │   ├── Índice de 28,86% Lei 8.622/1993 e 8.627/1993
+│   │   │   ├── Índice da URV Lei 8.880/1994
+│   │   │   │   ├── Índice de 3,17%
+│   │   │   │   └── Índice de 11,98%
+│   │   │   ├── Reajuste da Lei 8.270/1991
+│   │   │   ├── Índice do IPC junho/1987
+│   │   │   ├── Índice de 10,87% Lei 10.192/2001
+│   │   │   ├── Índice de 47,94% Lei 8.676/1993
+│   │   │   └── Correção Monetária de Diferenças Pagas em Atraso
+│   │   └── Categorias Especiais de Servidor Público
+│   │       ├── Professor
+│   │       ├── Procuradores de Órgãos / Entidades Públicos
+│   │       ├── Serventuários da Justiça
+│   │       ├── Auditores Fiscais
+│   │       └── Policiais Civis
+│   ├── Militar
+│   │   ├── Regime
+│   │   │   ├── Ingresso e Concurso
+│   │   │   ├── Curso de Formação
+│   │   │   ├── Reintegração
+│   │   │   ├── Estabilidade
+│   │   │   ├── Anistia Política
+│   │   │   ├── Adidos, Agregados e Adjuntos
+│   │   │   ├── Serviço Militar Obrigatório
+│   │   │   ├── Ex-combatentes
+│   │   │   ├── Promoção
+│   │   │   ├── Serviço Militar dos Profissionais da Saúde
+│   │   │   ├── Corpo Feminino
+│   │   │   └── Transferência de Unidade
+│   │   ├── Sistema Remuneratório e Benefícios
+│   │   │   ├── Gratificações e Adicionais
+│   │   │   ├── Férias
+│   │   │   ├── Indenizações Regulares
+│   │   │   ├── Isonomia
+│   │   │   │   └── Extensão de Vantagem aos Inativos
+│   │   │   ├── Reforma
+│   │   │   ├── Licenças
+│   │   │   ├── Agregação
+│   │   │   ├── Reserva Remunerada
+│   │   │   ├── Transferência ex-officio para reserva
+│   │   │   ├── Tempo de Serviço
+│   │   │   ├── Transferência para reserva
+│   │   │   ├── Assistência Médico-Hospitalar
+│   │   │   ├── Licença Prêmio
+│   │   │   ├── Licenciamento
+│   │   │   ├── Inclusão de Dependente
+│   │   │   ├── Remuneração Mínima
+│   │   │   └── Auxílio-invalidez
+│   │   ├── Reajuste de Remuneração, Soldo, Proventos ou Pensão
+│   │   │   ├── Índice de 28,86% LL 8.622/1993 e 8.627/1993
+│   │   │   ├── Índice da URV Lei 8.880/1994
+│   │   │   ├── Índice do IPC  junho/1987
+│   │   │   ├── Índice de 84,32% IPC março/1990
+│   │   │   └── Índice da URP abril e maio/1988 DL 2.425/1988
+│   │   ├── Pensão
+│   │   │   ├── Concessão
+│   │   │   ├── Restabelecimento
+│   │   │   └── Provisória
+│   │   └── Processo Administrativo Disciplinar / Sindicância
+│   │       ├── Advertência / Repreensão
+│   │       ├── Impedimento / Detenção / Prisão
+│   │       ├── Licenciamento / Exclusão
+│   │       ├── Suspensão
+│   │       └── Responsabilidade Civil do Militar - Indenização ao Erário
+│   ├── Concurso Público / Edital
+│   │   ├── Reserva de Vagas para Deficientes
+│   │   ├── Inscrição / Documentação
+│   │   ├── Limite de Idade
+│   │   ├── Exigência de Prática Forense
+│   │   ├── Prova de Títulos
+│   │   ├── Exame de Saúde e/ou Aptidão Física
+│   │   ├── Curso de Formação
+│   │   ├── Exame Psicotécnico / Psiquiátrico
+│   │   ├── Anulação e Correção de Provas / Questões
+│   │   ├── Escolaridade
+│   │   ├── Classificação e/ou Preterição
+│   │   ├── Anulação
+│   │   ├── Prazo de Validade
+│   │   ├── Condições Especiais para Prestação de Prova
+│   │   ├── Concurso para magistrado
+│   │   ├── Prova Objetiva
+│   │   ├── Prova Subjetiva
+│   │   ├── Prova Prática-Sentença
+│   │   ├── Prova Oral
+│   │   ├── Reserva de Vagas
+│   │   ├── Concurso para servidor
+│   │   └── Concurso para serventia extrajudicial
+│   ├── Licitações 
+│   │   ├── Modalidade / Limite / Dispensa / Inexigibilidade
+│   │   ├── Habilitação / Registro Cadastral / Julgamento / Homologação
+│   │   ├── Edital
+│   │   ├── Revogação
+│   │   ├── Sanções Administrativas
+│   │   ├── Recursos Administrativos
+│   │   ├── Convênio
+│   │   └── Adjudicação
+│   ├── Dívida Ativa não-tributária
+│   │   ├── Multas e demais Sanções
+│   │   │   ├── Ambiental
+│   │   │   ├── Sanitárias
+│   │   │   ├── Metrológica
+│   │   │   ├── Profissional
+│   │   │   └── Segurança e/ou Medicina do Trabalho
+│   │   ├── Taxa de Ocupação / Laudêmio / Foro
+│   │   └── Cessão de créditos não-tributários
+│   ├── Organização Sindical
+│   │   ├── Contribuição Sindical
+│   │   ├── Eleições Sindicais
+│   │   ├── Registro Sindical
+│   │   ├── Dilação e Extensão de Base Territorial
+│   │   └── Filiação
+│   ├── Empregado Público / Temporário
+│   │   ├── Contrato Temporário de Mão de Obra L 8.745/1993
+│   │   └── Admissão / Permanência / Despedida
+│   ├── Comissão Parlamentar de Inquérito - CPI
+│   │   ├── Quebra de Sigilo Bancário / Fiscal / Telefônico
+│   │   ├── Criação / Instalação / Prosseguimento / Encerramento
+│   │   ├── Limites dos Poderes de Investigação
+│   │   └── Limites do Objeto
+│   ├── Sistema Nacional de Trânsito
+│   │   ├── CNH - Carteira Nacional de Habilitação
+│   │   ├── Liberação de Veículo Apreendido
+│   │   └── Licenciamento de Veículo
+│   ├── Contratos Administrativos
+│   │   ├── Pagamento Atrasado / Correção Monetária
+│   │   ├── Anulação
+│   │   ├── Suspensão
+│   │   ├── Rescisão
+│   │   ├── Prorrogação
+│   │   ├── Termo Aditivo
+│   │   ├── Penalidades
+│   │   ├── Execução Contratual
+│   │   └── Equilíbrio Financeiro
+│   ├── Controle de Constitucionalidade
+│   │   ├── Inconstitucionalidade Material
+│   │   ├── Processo Legislativo
+│   │   └── Efeitos da Declaração de Inconstitucionalidade
+│   ├── Orçamento
+│   │   ├── Criação de Dotação Orçamentária
+│   │   ├── Repasse de Duodécimos
+│   │   ├── Repasse de Verbas Públicas
+│   │   ├── Crédito Suplementar
+│   │   ├── Crédito Especial
+│   │   └── Crédito Extraordinário
+│   ├── Ordem Urbanística
+│   │   ├── Parcelamento do Solo
+│   │   ├── Comércio Ambulante
+│   │   ├── Operações Urbanas Consorciadas
+│   │   ├── Posturas Municipais
+│   │   └── Segurança em Edificações
+│   ├── CONSELHOS
+│   │   ├── Conselho do Idoso
+│   │   ├── Conselho da Comunidade
+│   │   ├── Conselho sobre Drogas
+│   │   └── Conselho de Direitos da Criança e Adolescente
+│   ├── Controle Externo da atividade policial
+│   ├── Política Agrícola
+│   ├── Responsabilidade Fiscal
+│   ├── Sistema de proteção especial a vítimas e a testemunhas
+│   ├── Política fundiária e da reforma agrária
+│   └── Responsabilidade fiscal
+├── DIREITO ELEITORAL E PROCESSO ELEITORAL DO STF
+│   ├── Partido Político
+│   │   ├── Criação do Partido Político
+│   │   ├── Registro do Partido Político
+│   │   ├── Extinção do Partido Político
+│   │   ├── Filiação partidária
+│   │   ├── Convenção para escolha de candidatos
+│   │   └── Fidelidade partidária
+│   ├── Plebiscito
+│   ├── Referendo popular
+│   ├── Eleição
+│   │   ├── Sistema Majoritário / Proporcional
+│   │   ├── Número de vagas
+│   │   │   ├── fixação
+│   │   │   ├── aumento
+│   │   │   └── redução
+│   │   ├── Eleitor
+│   │   │   ├── Alistamento
+│   │   │   │   └── Cancelamento da inscrição de eleitor
+│   │   │   ├── Domicílio eleitoral
+│   │   │   ├── Isenção do dever eleitoral
+│   │   │   └── Justificação de ausência de voto
+│   │   ├── Registro da candidatura
+│   │   │   ├── Desincompatibilização do candidato
+│   │   │   ├── Inelegibilidade
+│   │   │   ├── Reeleição
+│   │   │   ├── Cassação do registro da candidatura
+│   │   │   └── Anistia
+│   │   ├── Campanha Eleitoral
+│   │   │   ├── Propaganda eleitoral
+│   │   │   ├── Direito de resposta
+│   │   │   ├── Prestação de contas
+│   │   │   ├── Pesquisa eleitoral
+│   │   │   ├── Abuso do poder econômico
+│   │   │   ├── Abuso do poder político (uso indevido dos meios de comunicação)
+│   │   │   └── Uso de bem público
+│   │   ├── Pleito
+│   │   │   ├── Sistema eletrônico de votação
+│   │   │   ├── Sigilo na votação
+│   │   │   ├── Apuração/recontagem de votos
+│   │   │   ├── Nulidade da votação
+│   │   │   ├── Quociente eleitoral
+│   │   │   ├── Transporte em dia de eleição
+│   │   │   └── Boca de urna
+│   │   └── Diplomação
+│   │       ├── Cassação do diploma
+│   │       └── Sustação da diplomação
+│   └── Mandato
+│       ├── Prestação de contas
+│       ├── Declaração de inelegibilidade
+│       ├── Impugnação de mandato eletivo
+│       ├── Perda do mandato
+│       ├── Recondução
+│       ├── Suspensão de mandato
+│       ├── Convocação de suplente
+│       ├── Renúncia
+│       ├── Extinção do mandato
+│       │   ├── Por cumulação de cargos
+│       │   ├── Por condenação criminal
+│       │   └── Por suspensão dos direitos políticos
+│       ├── Afastamento do cargo
+│       └── Cassação de mandato
+├── DIREITO PROCESSUAL PENAL MILITAR
+│   ├── Ação Penal Militar
+│   │   └── Nulidade
+│   │       └── Irregularidade na composição do Conselho
+│   ├── Correição Parcial
+│   │   ├── Representação do Corregedor
+│   │   └── Requerimento da Parte
+│   ├── Execução Penal
+│   │   └── Penas restritivas de direitos
+│   │       ├── Cassação de licença para direção de veículo motorizado
+│   │       ├── Confisco
+│   │       ├── Exílio local
+│   │       ├── Interdição de estabecimento  ou associação
+│   │       ├── Proibição de frequentar determinados locais
+│   │       └── Suspensão do exercício do posto, graduação, cargo ou função
+│   ├── Jurisdição e Competência
+│   │   ├── Competência da Justiça Militar da União
+│   │   └── Competência da Justiça Militar Estadual
+│   └── Menagem
+├── DIREITO PENAL MILITAR
+│   ├── Crime Culposo
+│   ├── Crime em tempo de guerra
+│   ├── Crime Tentado
+│   ├── Crimes contra a Administração da Justiça Militar
+│   │   ├── Auto-acusação falsa
+│   │   ├── Coação
+│   │   ├── Comunicação falsa de crime
+│   │   ├── Corrupção ativa de testemunha, perito ou intérprete
+│   │   ├── Denunciação caluniosa
+│   │   ├── Desacato
+│   │   ├── Desobediência a decisão judicial
+│   │   ├── Desobediência a decisão sobre perda ou suspensão de atividade ou direito
+│   │   ├── Exploração de prestígio
+│   │   ├── Falso testemunho ou falsa perícia
+│   │   ├── Favorecimento pessoal
+│   │   ├── Favorecimento real
+│   │   ├── Inutilização,sonegação ou descaminho de material probante
+│   │   ├── Publicidade opressiva
+│   │   └── Recusa de função na Justiça Militar
+│   ├── Crimes contra a Administração Militar
+│   │   ├── Concussão, Excesso de Exação e Desvio
+│   │   │   ├── Concussão
+│   │   │   ├── Desvio
+│   │   │   └── Excesso de exação
+│   │   ├── Corrupção
+│   │   │   ├── Corrupção ativa
+│   │   │   ├── Corrupção passiva
+│   │   │   └── Participação ilícita
+│   │   ├── Crimes contra o dever funcional
+│   │   │   ├── Abandono de cargo
+│   │   │   ├── Abuso de confiança ou boa fé
+│   │   │   ├── Aplicação ilegal de verba ou dinheiro
+│   │   │   ├── Condescendência criminosa
+│   │   │   ├── Exercício funcional ilegal
+│   │   │   ├── Extravio, sonegação ou inutilização de livro ou documento
+│   │   │   ├── Inobservancia de lei, regulamento ou instrução
+│   │   │   ├── Não inclusão de nome em lista
+│   │   │   ├── Obstáculo à hasta pública, concorrência ou tomada de preços
+│   │   │   ├── Patrocínio indébito
+│   │   │   ├── Prevaricação
+│   │   │   ├── Violação de sigilo de proposta de concorrência
+│   │   │   ├── Violação de sigilo funcional
+│   │   │   ├── Violação do dever funcional com o fim de lucro
+│   │   │   ├── Violação ou divulgação indevida de correspondência ou comunicação
+│   │   │   └── Violência arbitrária
+│   │   ├── Crimes praticados por particular contra a Administração Militar
+│   │   │   ├── Impedimento, perturbação ou fraude de concorrencia
+│   │   │   ├── Inutilização de edital ou de sinal oficial
+│   │   │   ├── Subtração ou inutilização de livro, processo ou documento
+│   │   │   ├── Tráfico de influência
+│   │   │   └── Usurpação de função
+│   │   ├── Desacato e da Desobediência
+│   │   │   ├── Desacato a assemelhado ou funcionário
+│   │   │   ├── Desacato a militar
+│   │   │   ├── Desacato a superior
+│   │   │   ├── Desobediência
+│   │   │   └── Ingresso clandestino
+│   │   ├── Falsidade
+│   │   │   ├── Certidão ou atestado ideologicamente falso 
+│   │   │   ├── Cheques sem fundos
+│   │   │   ├── Falsa identidade
+│   │   │   ├── Falsidade ideológica
+│   │   │   ├── Falsificação de documento
+│   │   │   ├── Supressão de documento
+│   │   │   ├── Uso de documento falso
+│   │   │   └── Uso de documento pessoal alheio
+│   │   └── Peculato
+│   │       ├── Peculato
+│   │       ├── Peculato mediante aproveitamento ou erro de outrem
+│   │       └── Peculato-furto
+│   ├── Crimes contra a Autoridade ou Disciplina Militar
+│   │   ├── Desrespeito a superior e a símbolo nacional ou farda
+│   │   │   ├── Despojamento desprezível
+│   │   │   ├── Desrespeito a comandante, oficial-general ou oficial de serviço
+│   │   │   ├── Desrespeito a símbolo nacional
+│   │   │   └── Desrespeito a superior 
+│   │   ├── Aliciação e incitamento
+│   │   │   ├── Aliciação para motim ou revolta
+│   │   │   ├── Apologia de fato criminoso ou do seu autor
+│   │   │   └── Incitamento
+│   │   ├── Fuga, evasão, arrebatamento e amotinamento de presos
+│   │   │   ├── Amotinamento
+│   │   │   ├── Arrebatamento de preso ou internado
+│   │   │   ├── Evasão de preso ou internado
+│   │   │   └── Fuga de preso ou internado
+│   │   ├── Insubordinação
+│   │   │   ├── Oposição a ordem de sentinela
+│   │   │   ├── Publicação ou crítica indevida
+│   │   │   ├── Recusa a obediência
+│   │   │   └── Reunião ilícita
+│   │   ├── Motim e Revolta
+│   │   │   ├── Conspiração
+│   │   │   ├── Motim
+│   │   │   ├── Omissão de lealdade militar
+│   │   │   ├── Organização de grupo para prática de violência
+│   │   │   └── Revolta
+│   │   ├── Resistência
+│   │   │   └── Resistência mediante ameaça ou violência
+│   │   ├── Usurpação e excesso ou abuso de autoridade
+│   │   │   ├── Abuso de requisição militar
+│   │   │   ├── Assunção de comando sem ordem ou autorização
+│   │   │   ├── Conservação ilegal de comando
+│   │   │   ├── Ofensa aviltante a inferior
+│   │   │   ├── Operação militar sem ordem superior
+│   │   │   ├── Ordem arbitrária de invasão
+│   │   │   ├── Rigor excessivo
+│   │   │   ├── Uso indevido de uniforme, distintivo ou insígnia militar por qualquer pessoa
+│   │   │   ├── Uso indevido por militar de uniforme, distintivo ou insígnia
+│   │   │   └── Violência contra inferior
+│   │   └── Violência contra superior ou militar de serviço
+│   │       ├── Violência contra militar de serviço
+│   │       └── Violência contra superior
+│   ├── Crimes contra a Pessoa
+│   │   ├── Crimes contra a Honra
+│   │   │   ├── Calúnia
+│   │   │   ├── Difamação
+│   │   │   ├── Injúria
+│   │   │   ├── Injuria real
+│   │   │   └── Ofensa às forças armadas
+│   │   ├── Crimes contra a Liberdade
+│   │   │   ├── Ameaça
+│   │   │   ├── Constragimento ilegal
+│   │   │   ├── Desafio para duelo
+│   │   │   ├── Divulgação de segredo
+│   │   │   ├── Sequestro ou cárcere privado
+│   │   │   ├── Violação de correspondência
+│   │   │   ├── Violação de domicílio
+│   │   │   ├── Violação de recato
+│   │   │   └── Violação de segredo profissional
+│   │   ├── Crimes Sexuais
+│   │   │   ├── Atentado violento ao pudor
+│   │   │   ├── Corrupção de menores
+│   │   │   ├── Estupro
+│   │   │   └── Ato Libidinoso
+│   │   ├── Genocídio
+│   │   │   └── Genocídio
+│   │   ├── Homicídio
+│   │   │   ├── Homicídio
+│   │   │   ├── Homicidio qualificado
+│   │   │   ├── Homicido privilegiado
+│   │   │   ├── Provocação direta ou auxílio a suicídio
+│   │   │   └── Provocação indireta ao suicídio
+│   │   ├── Lesão Corporal e Rixa
+│   │   │   ├── Lesão grave
+│   │   │   ├── Lesão leve
+│   │   │   ├── Lesão levíssima
+│   │   │   ├── Lesão privilegiada
+│   │   │   ├── Lesão seguida de morte
+│   │   │   └── Participação em rixa
+│   │   ├── Periclitação da Vida ou da Saúde
+│   │   │   ├── Abandono de pessoa
+│   │   │   ├── Abandono de pessoa seguida de morte ou lesão grave
+│   │   │   ├── Maus tratos
+│   │   │   └── Maus tratos seguido de morte ou lesão grave
+│   │   └── Ultraje Público ao Pudor
+│   │       ├── Ato obsceno
+│   │       └── Escrito ou objeto obsceno
+│   ├── Crimes contra a Segurança Externa do País
+│   │   ├── Atos de jurisdição indevida
+│   │   ├── Consecução de notícia, informação ou documento para fim de espionagem
+│   │   ├── Desenho ou levantamento de plano ou planta de local militar
+│   │   ├── Entendimento para empenhar o Brasil à neutralidade ou à guerra
+│   │   ├── Entendimento para gerar conflito ou divergência com o Brasil
+│   │   ├── Hostilidade contra país estrangeiro
+│   │   ├── Hostilidade qualificada pelo resultado
+│   │   ├── Penetração com o fim de espionagem
+│   │   ├── Provocação a país estrangeiro
+│   │   ├── Revelação de notícia, informação ou documento
+│   │   ├── Revelação de notícia, informação ou documento, com o fim de espionagem militar
+│   │   ├── Sobrevôo em local interdito
+│   │   ├── Tentativa contra a soberania do Brasil
+│   │   ├── Turbação de objeto ou documento
+│   │   └── Violação de território estrangeiro
+│   ├── Crimes contra Incolumidade Pública
+│   │   ├── Contra a Saúde
+│   │   │   ├── Corrupção ou poluição de água potável
+│   │   │   ├── Envenenamento com perigo extensivo
+│   │   │   ├── Epidemia
+│   │   │   ├── Fornecimento de substância alterada
+│   │   │   ├── Fornecimento de substancia nociva
+│   │   │   ├── Omissão de notificação de doença
+│   │   │   ├── Receita Ilegal
+│   │   │   └── Tráfico, posse ou uso de entorpecente ou substância de efeito similar
+│   │   ├── Crimes contra os Meios de Transporte e de Comunicação
+│   │   │   ├── Arremesso de projétil
+│   │   │   ├── Atentado contra serviço de utilidade militar
+│   │   │   ├── Atentado contra transporte
+│   │   │   ├── Atentado contra viatura ou outro meio de transporte
+│   │   │   ├── Interrupção ou perturbação de serviço ou meio de comunicação
+│   │   │   └── Perigo de desastre ferroviário
+│   │   └── Crimes de Perigo Comum
+│   │       ├── Abuso de radiação
+│   │       ├── Desabamento ou desmoronamento
+│   │       ├── Difusão de epizootia ou praga vegetal
+│   │       ├── Embriaguez ao volante
+│   │       ├── Emprego de gás tóxico ou asfixiante
+│   │       ├── Explosão
+│   │       ├── Fatos que expõem a perigo aparelhamento militar
+│   │       ├── Fuga após acidente de trânsito
+│   │       ├── Incêndio
+│   │       ├── Inundação
+│   │       ├── Perigo de inundação
+│   │       ├── Perigo resultante de violação de regra de trânsito
+│   │       └── Subtração, ocultação ou inutilização de material de socorro
+│   ├── Crimes contra o Patrimônio
+│   │   ├── Apropriação Indébita
+│   │   │   ├── Apropriação de coisa achada
+│   │   │   ├── Apropriação de coisa havida acidentalmente
+│   │   │   └── Apropriação indébita
+│   │   ├── Dano
+│   │   │   ├── Dano atenuado
+│   │   │   ├── Dano em aparelhos e instalações 
+│   │   │   ├── Dano em navio de guerra ou mercante em serviço militar
+│   │   │   ├── Dano material ou aparelhamento de guerra
+│   │   │   ├── Dano qualificado
+│   │   │   ├── Dano simples
+│   │   │   └── Desaparecimento,consunção ou extravio
+│   │   ├── Estelionato e outras fraudes
+│   │   │   ├── Abuso de pessoa
+│   │   │   └── Estelionato
+│   │   ├── Furto
+│   │   │   ├── Furto 
+│   │   │   ├── Furto de uso
+│   │   │   └── Furto qualificado
+│   │   ├── Receptação
+│   │   │   └── Receptação
+│   │   ├── Roubo e Extorsão
+│   │   │   ├── Chantagem
+│   │   │   ├── Extorsão 
+│   │   │   ├── Extorsão indireta
+│   │   │   ├── Extorsão mediante sequestro
+│   │   │   ├── Latrocínio
+│   │   │   ├── Roubo
+│   │   │   └── Roubo qualificado
+│   │   ├── Usura
+│   │   │   └── Usura pecuniária
+│   │   └── Usurpação
+│   │       ├── Alteração de Limites 
+│   │       └── Aposição, supressão ou alteração de marca
+│   ├── Crimes contra o Serviço Militar e o Dever Militar
+│   │   ├── Abandono de posto e de outros crimes em serviço
+│   │   │   ├── Abandono de posto
+│   │   │   ├── Descumprimento de missão
+│   │   │   ├── Dormir em serviço
+│   │   │   ├── Embriaguez em serviço
+│   │   │   ├── Omissão de eficiência da força
+│   │   │   ├── Omissão de providências para evitar danos
+│   │   │   ├── Omissão de providências para salvar comandados
+│   │   │   ├── Omissão de socorro
+│   │   │   └── Retenção indevida
+│   │   ├── Deserção
+│   │   │   ├── Concerto para deserção
+│   │   │   ├── Deserção
+│   │   │   ├── Deserção - casos assimilados
+│   │   │   ├── Deserção especial
+│   │   │   ├── Deserção por evasão ou fuga
+│   │   │   ├── Deserção privilegiada
+│   │   │   ├── Deserção qualificada
+│   │   │   ├── Favorecimento a desertor
+│   │   │   └── Omissão de Oficial
+│   │   ├── Exercício de comércio
+│   │   │   └── Exercício de comércio por oficial
+│   │   └── Insubmissão
+│   │       ├── Criação ou simulação de incapacidade física
+│   │       ├── Favorecimento a convocado
+│   │       ├── Insubmissão
+│   │       ├── Insubmissão privilegiada
+│   │       └── Substituição de convocado
+│   └── Parte Geral 
+│       ├── Aplicação da Pena
+│       │   ├── Conversão da Pena
+│       │   └── Substituição da Pena
+│       ├── Efeitos da Condenação
+│       │   ├── Perda em favor da Fazenda Pública
+│       │   └── Reparação do Dano
+│       ├── Excludentes
+│       │   ├── Estado de Necessidade
+│       │   ├── Estado de Necessidade exculpante
+│       │   ├── Estrito Cumprimento do Dever Legal
+│       │   ├── Exercício Regular do Direito
+│       │   ├── Inexigibilidade de Conduta Diversa
+│       │   └── Legítima Defesa
+│       ├── Extinção da punibilidade
+│       │   ├── Anistia
+│       │   ├── Indulto
+│       │   ├── Morte do Agente
+│       │   ├── Prescrição
+│       │   ├── Reabilitação
+│       │   └── Ressarcimento do Dano
+│       ├── Livramento Condicional
+│       ├── Penas Acessórias
+│       │   ├── Exclusão das Forças Armadas
+│       │   ├── Inabilitação para o exercício de Função Pública
+│       │   ├── Incompatibilidade para o Oficialato
+│       │   ├── Indignidade para o Oficialato
+│       │   ├── Perda da Função Pública
+│       │   ├── Perda da Graduação das Praças 
+│       │   ├── Perda do Posto e da Patente
+│       │   ├── Suspensão do pátrio poder, tutela ou curatela
+│       │   └── Suspensão dos direitos políticos
+│       ├── Suspensão Condicional da Pena
+│       └── Tipicidade
+│           ├── Abolitio criminis
+│           └── Princípio da Insignificância
+├── DIREITO ELEITORAL
+│   ├── Crimes Eleitorais
+│   │   ├── Crimes contra a Organização Administrativa da Justiça Eleitoral
+│   │   │   ├── Intervenção Indevida de Autoridade Junto à Mesa Receptora
+│   │   │   ├── Não Observância de Chamamento de Eleitores para Votar
+│   │   │   ├── Práticas Irregulares que Determinam a Anulação da Votação
+│   │   │   ├── Votação de Eleitor na Seção Eleitoral na qual Não Está Inscrito ou Autorizado a Votar 
+│   │   │   ├── Contagem de Votos de Eleitores em Relação aos quais Houve Impugnação
+│   │   │   └── Fabricação, Aquisição, Fornecimento, Subtração ou Guarda de Materiais de Uso da Justiça Eleitoral
+│   │   ├── Crimes contra o Serviço da Justiça Eleitoral
+│   │   │   ├── Inscrição Fraudulenta
+│   │   │   ├── Induzimento à Inscrição de Eleitor em Infração às Normas Legais
+│   │   │   ├── Inscrição Fraudulenta Efetivada pelo Juiz
+│   │   │   ├── Negativa ou Retardamento de Inscrição sem Fundamento Legal
+│   │   │   ├── Perturbação ou Impedimento de Alistamento
+│   │   │   ├── Promoção de Desordem nos Trabalhos Eleitorais
+│   │   │   ├── Majoração de Preços de Utilidade e Serviços Necessários à Realização das Eleições
+│   │   │   ├── Ocultação, Sonegação ou Recusa de Fornecimento de Utilidades, Alimentos e Transporte no Dia da Eleição 
+│   │   │   ├── Retardamento ou Não-Publicação de Decisões, Citações ou Intimações da Justiça Eleitoral
+│   │   │   ├── Não-Apresentação de Denúncia ou Não Execução de Sentença Penal Condenatória no Prazo Legal  
+│   │   │   ├── Não Cumprimento, pela Autoridade Judiciária, do Dever de Representar Contra o Órgão do Ministério que Não Oferece Denúncia no Prazo Legal 
+│   │   │   ├── Recusa ou Abandono do Serviço Eleitoral
+│   │   │   ├── Não Cumprimento dos Deveres Impostos pelo Código Eleitoral à Autoridade Judiciária e aos Funcionários da Justiça Eleitoral 
+│   │   │   ├── Utilização de Prédios ou Serviços de Repartições Públicas para Beneficiar Partido ou Organização de Caráter Político 
+│   │   │   ├── Desobediência a Ordens ou Instruções da Justiça Eleitoral 
+│   │   │   ├── Descumprimento do Dever de Informar o Número, Espécie e Lotação de Veículos e Embarcações 
+│   │   │   ├── Desatendimento à Requisição de Veículo ou Embarcação  
+│   │   │   ├── Descumprimento da Proibição de Fornecimento de Transporte ou Refeições a Eleitores
+│   │   │   ├── Obstamento do Transporte e Fornecimento de Alimentos a Eleitores pela Justiça Eleitoral
+│   │   │   ├── Utilização de Veículos e Embarcações Públicas em Campanha Eleitoral
+│   │   │   └── Dano a Equipamento Eleitoral
+│   │   ├── Crimes contra a Fé Pública Eleitoral
+│   │   │   ├── Omissão na Expedição de Boletim de Apuração
+│   │   │   ├── Omissão no Recolhimento das Cédulas Apuradas, no Fechamento e Lacração da Urna
+│   │   │   ├── Alteração do Resultado de Votação nos Mapas ou Boletins de Apuração
+│   │   │   ├── Omissão no Recebimento e Registro de Protestos, bem como, de sua Remessa à Instância Superior 
+│   │   │   ├── Falsificação ou Alteração de Documento Público para Fins Eleitorais
+│   │   │   ├── Falsidade Ideológica
+│   │   │   ├── Reconhecimento Indevido de Firma ou Letras para Fins Eleitorais
+│   │   │   ├── Uso de Documento Falso para Fins Eleitorais
+│   │   │   ├── Obtenção de Documento Falso para Fins Eleitorais
+│   │   │   ├── Omissão da Entrega do Boletim de Urna
+│   │   │   ├── Obtenção de Acesso a Sistema de Dados Eleitorais
+│   │   │   ├── Destruição de Dados Eleitorais
+│   │   │   ├── Cerceamento da Fiscalização Partidária
+│   │   │   └── Recusa de Entrega de Boletim
+│   │   ├── Crimes contra a Propaganda Eleitoral
+│   │   │   ├── Divulgação de Fatos Inverídicos na Propaganda Eleitoral
+│   │   │   ├── Calúnia na Propaganda Eleitoral
+│   │   │   ├── Divulgação de Falsa Imputação
+│   │   │   ├── Difamação na Propaganda Eleitoral
+│   │   │   ├── Injúria na Propaganda Eleitoral
+│   │   │   ├── Injúria Eleitoral Violenta
+│   │   │   ├── Inutilização, Alteração ou Perturbação de Propaganda
+│   │   │   ├── Impedimento do Exercício da Propaganda
+│   │   │   ├── Utilização de Organização Comercial para Propaganda ou Aliciamento de Eleitores
+│   │   │   ├── Realização de Propaganda Eleitoral em Língua Estrangeira
+│   │   │   ├── Participação de Pessoa Não Detentora de Direitos Políticos em Atividades Partidárias e de Propaganda Eleitoral 
+│   │   │   ├── Autorização de Transmissão de Pessoa Não Detentora de Direitos Políticos em Atividades Partidárias e de Propaganda Eleitoral 
+│   │   │   ├── Pesquisa Fraudulenta
+│   │   │   └── Uso, na Propaganda Eleitoral, de Símbolo de Órgãos de Governo
+│   │   ├── Crimes contra o Sigilo ou o Exercício do Voto
+│   │   │   ├── Retenção de Título Eleitoral ou do Comprovante de Alistamento Eleitoral
+│   │   │   ├── Impedimento ou Embaraço ao Exercício do Sufrágio
+│   │   │   ├── Prisão ou Detenção do Eleitor, Membro de Mesa Receptora, Fiscal, Delegado de Partido ou Candidato, Fora das Hipóteses Legais Permitidas 
+│   │   │   ├── Corrupção Eleitoral
+│   │   │   ├── Coação Visando a Obtenção de Voto ou a sua Abstenção
+│   │   │   ├── Violência ou Grave Ameaça Visando a Obtenção de Voto ou a sua Abstenção
+│   │   │   ├── Concentração de Eleitores para Embaraçar ou Fraudar o Exercício do Voto
+│   │   │   ├── Fornecimento ao Eleitor de Cédula Oficial Já Assinalada ou Marcada
+│   │   │   ├── Fornecimento de Cédula Eleitoral Rubricada a Destempo
+│   │   │   ├── Votação Múltipla ou Realizada em Lugar de Outrem
+│   │   │   ├── Violação do Sigilo do Voto
+│   │   │   ├── Violação do Sigilo da Urna ou dos Invólucros
+│   │   │   ├── Destruição, Supressão ou Ocultação de Urna Contendo Votos ou Documentos Eleitorais 
+│   │   │   ├── Destruição de Relação de Candidatos
+│   │   │   ├── Uso Proibido de Alto-Falantes
+│   │   │   ├── Arregimentação de Eleitor ou Boca de Urna
+│   │   │   ├── Divulgação de Propaganda Eleitoral no Dia da Eleição
+│   │   │   ├── Retenção de Título ou Comprovante de Alistamento Eleitoral
+│   │   │   └── Subscrição de Mais de Uma Ficha de Filiação Partidária
+│   │   ├── Crimes contra os Partidos Políticos
+│   │   │   ├── Subscrição de Mais de Uma Ficha de Filiação Partidária
+│   │   │   ├── Inscrição Simultânea em Dois ou Mais Partidos
+│   │   │   ├── Coleta de Assinatura em Mais de Uma Ficha de Registro Partidário
+│   │   │   ├── Preterição à Prioridade Postal
+│   │   │   ├── Arguição de Ineligibilidade Temerária ou de Má-Fé
+│   │   │   ├── Não-Acesso dos Partidos aos Dados Relativos às Pesquisas Eleitorais
+│   │   │   └── Irregularidades dos Dados Publicados em Pesquisas Eleitorais
+│   │   └── Crimes Conexos
+│   ├── Administração da Justiça Eleitoral
+│   │   ├── Conduta Vedada a Agente Público
+│   │   ├── Improbidade Administrativa
+│   │   ├── Descumprimento de Prazos Eleitorais
+│   │   ├── Garantia de Autoridade de Decisão do Tribunal
+│   │   ├── Magistrado
+│   │   │   ├── Afastamento de Magistrado
+│   │   │   ├── Designação de Juiz Eleitoral
+│   │   │   ├── Lista Tríplice
+│   │   │   └── Apuração de Irregularidade na Conduta Funcional
+│   │   ├── Servidor
+│   │   │   ├── Concurso Público
+│   │   │   ├── Remoção de Servidor
+│   │   │   └── Requisição
+│   │   │       ├── Requisição de Servidor
+│   │   │       └── Requisição de Servidor - Renovação de Requisição de Servidor
+│   │   ├── Minuta de Resolução
+│   │   │   ├── Proposta de Alteração de Resolução
+│   │   │   └── Proposta de Nova Resolução
+│   │   ├── Requisição de Força Federal
+│   │   └── Matéria Administrativa
+│   ├── Alistamento Eleitoral
+│   │   ├── Alistamento Eleitoral - Cancelamento
+│   │   ├── Alistamento Eleitoral - Domicílio Eleitoral
+│   │   ├── Alistamento Eleitoral - Duplicidade/Pluralidade
+│   │   ├── Alistamento Eleitoral - Exclusão
+│   │   ├── Alistamento Eleitoral - Inscrição Eleitoral
+│   │   ├── Impugnação - Alistamento Eleitoral
+│   │   │   ├── Impugnação - Inscrição Eleitoral
+│   │   │   └── Impugnação - Transferência de Domicílio Eleitoral
+│   │   ├── Alistamento Eleitoral - Estrangeiro
+│   │   ├── Alistamento Eleitoral - Fraude
+│   │   └── Coincidência Biométrica
+│   ├── Eleições
+│   │   ├── Candidatos
+│   │   │   ├── Condição de Elegibilidade
+│   │   │   │   ├── Condição de Elegibilidade - Alistamento Eleitoral
+│   │   │   │   ├── Condição de Elegibilidade - Domicílio Eleitoral na Circunscrição
+│   │   │   │   ├── Condição de Elegibilidade - Idade Mínima
+│   │   │   │   ├── Condição de Elegibilidade - Filiação Partidária
+│   │   │   │   ├── Condição de Elegibilidade - Nacionalidade Brasileira
+│   │   │   │   ├── Condição de Elegibilidade - Pleno Exercício dos Direitos Políticos
+│   │   │   │   └── Condição de Elegibilidade - Quitação Eleitoral
+│   │   │   ├── Direito de Resposta
+│   │   │   ├── Identificação Numérica de Candidato
+│   │   │   ├── Inelegibilidade
+│   │   │   │   ├── Inelegibilidade - Abuso do Poder Econômico ou Político
+│   │   │   │   ├── Inelegibilidade - Analfabetismo
+│   │   │   │   ├── Inelegibilidade - Condenação Criminal por órgão colegiado ou Transitada em Julgado
+│   │   │   │   ├── Inelegibilidade - Declaração de Indignidade ou de Incompatibilidade com o Oficialato
+│   │   │   │   ├── Inelegibilidade - Desincompatibilização
+│   │   │   │   ├── Inelegibilidade - Inalistável
+│   │   │   │   ├── Inelegibilidade - Parentesco
+│   │   │   │   ├── Inelegibilidade - Reeleição
+│   │   │   │   ├── Inelegibilidade - Rejeição de Contas Públicas
+│   │   │   │   ├── Inelegibilidade - Representação ou Ação de Investigação Judicial Eleitoral Jugada Procedente pela Justiça Eleitoral
+│   │   │   │   ├── Inelegibilidade - Terceiro Mandato
+│   │   │   │   ├── Inelegibilidade - Vida Pregressa
+│   │   │   │   ├── Inelegibilidade - Vínculo Afetivo
+│   │   │   │   ├── Inelegibilidade - Vínculo Conjugal
+│   │   │   │   ├── Inelegibilidade - Vínculo em União Estável 
+│   │   │   │   ├── Inelegibilidade - Renúncia a cargo político na pendência de representação ou petição que possa levar a outra causa de inelegibilidade
+│   │   │   │   ├── Inelegibilidade - Exclusão do exercício de profissão
+│   │   │   │   ├── Inelegibilidade - Aposentadoria Compulsória ou PAD (magistrados e membros do MP)
+│   │   │   │   └── Inelegibilidade - Demissão do serviço público
+│   │   │   ├── Nome do Candidato
+│   │   │   │   ├── Nome do Candidato - Homonímia
+│   │   │   │   └── Nome do Candidato - Variação Nominal
+│   │   │   ├── Prestação de Contas - De Candidato
+│   │   │   ├── Registro de Candidatura
+│   │   │   │   ├── Impugnação ao Registro de Candidatura
+│   │   │   │   ├── Registro de Candidatura - Preenchimento de Vaga Remanescente
+│   │   │   │   ├── Registro de Candidatura - RRC - Candidato
+│   │   │   │   ├── Registro de Candidatura - RRCI - Candidato Individual
+│   │   │   │   │   └── Registro de Candidatura %u2013 DRAP
+│   │   │   │   ├── Registro de Candidatura - Substituição de Candidato
+│   │   │   │   │   ├── Registro de Candidatura - Substituição de Candidato - Por Cancelamento de Registro
+│   │   │   │   │   ├── Registro de Candidatura - Substituição de Candidato - Por Cassação de Registro
+│   │   │   │   │   ├── Registro de Candidatura - Substituição de Candidato - Por Expulsão Partidária
+│   │   │   │   │   ├── Registro de Candidatura - Substituição de Candidato - Por Falecimento
+│   │   │   │   │   ├── Registro de Candidatura - Substituição de Candidato - Por Indeferimento de Registro
+│   │   │   │   │   ├── Registro de Candidatura - Substituição de Candidato - Por Ineligibilidade
+│   │   │   │   │   └── Registro de Candidatura - Substituição de Candidato - Por Renúncia
+│   │   │   │   ├── Registro de Candidatura - DRAP Partido/Coligação
+│   │   │   │   └── Cancelamento de Registro de Candidatura
+│   │   │   ├── Candidato Eleito
+│   │   │   └── Candidato Não-Eleito
+│   │   ├── Cargos
+│   │   │   ├── Cargo - Deputado Distrital
+│   │   │   ├── Cargo - Deputado Estadual
+│   │   │   ├── Cargo - Deputado Federal
+│   │   │   ├── Cargo - Governador
+│   │   │   ├── Cargo - Prefeito
+│   │   │   ├── Cargo - Presidente da República
+│   │   │   ├── Cargo - Primeiro Suplente de Senador
+│   │   │   ├── Cargo - Segundo Suplente de Senador
+│   │   │   ├── Cargo - Senador
+│   │   │   ├── Cargo - Vereador
+│   │   │   ├── Cargo - Vice-Governador
+│   │   │   ├── Cargo - Vice-Prefeito
+│   │   │   └── Cargo - Vice-Presidente da República
+│   │   ├── Eleições - 1° Turno
+│   │   ├── Eleições - 2° Turno
+│   │   ├── Eleições - Anulação de Eleições
+│   │   ├── Eleições - Eleição Majoritária
+│   │   ├── Eleições - Eleição Proporcional
+│   │   ├── Eleições - Eleição Suplementar
+│   │   ├── Pesquisa Eleitoral
+│   │   │   ├── Pesquisa Eleitoral - Divulgação de Pesquisa Eleitoral Fraudulenta
+│   │   │   ├── Pesquisa Eleitoral - Divulgação de Pesquisa Eleitoral Sem Prévio Registro
+│   │   │   └── Pesquisa Eleitoral - Registro de Pesquisa Eleitoral
+│   │   ├── Propaganda Política - Propaganda Eleitoral
+│   │   │   ├── Propaganda Política - Propaganda Eleitoral - Adesivo
+│   │   │   ├── Propaganda Política - Propaganda Eleitoral - Alto-falante/Amplificador de Som
+│   │   │   ├── Propaganda Política - Propaganda Eleitoral - Banner/Cartaz/Faixa
+│   │   │   ├── Propaganda Política - Propaganda Eleitoral - Bem Particular
+│   │   │   ├── Propaganda Política - Propaganda Eleitoral - Bem Particular de Uso Comum
+│   │   │   ├── Propaganda Política - Propaganda Eleitoral - Bem Público
+│   │   │   ├── Propaganda Política - Propaganda Eleitoral - Bem Tombado
+│   │   │   ├── Propaganda Política - Propaganda Eleitoral - Boca de Urna
+│   │   │   ├── Propaganda Política - Propaganda Eleitoral - Cavalete
+│   │   │   ├── Propaganda Política - Propaganda Eleitoral - Comício/Showmício
+│   │   │   ├── Propaganda Política - Propaganda Eleitoral - Conduta Vedada a Emissora de Rádio/Televisão na Programação Normal
+│   │   │   ├── Propaganda Política - Propaganda Eleitoral - Confecção, Utilização ou Distribuição de Brinde
+│   │   │   ├── Propaganda Política - Propaganda Eleitoral - Contrariedade à Lei de Postura Municipal
+│   │   │   ├── Propaganda Política - Propaganda Eleitoral - Debate Político
+│   │   │   ├── Propaganda Política - Propaganda Eleitoral - Extemporânea/Antecipada
+│   │   │   ├── Propaganda Política - Propaganda Eleitoral - Folhetos/Volantes/Santinhos/Impressos
+│   │   │   ├── Propaganda Política - Propaganda Eleitoral - Horário Eleitoral Gratuito
+│   │   │   │   ├── Propaganda Política - Propaganda Eleitoral - Distribuição de Tempo de Propaganda
+│   │   │   │   ├── Propaganda Política - Propaganda Eleitoral - Horário Eleitoral Gratuito/Inserções de Propaganda
+│   │   │   │   ├── Propaganda Política - Propaganda Eleitoral - Horário Eleitoral Gratuito/Programa em Bloco
+│   │   │   │   ├── Propaganda Política - Propaganda Eleitoral - Rádio
+│   │   │   │   ├── Propaganda Política - Propaganda Eleitoral - Rádio Comunitária
+│   │   │   │   ├── Propaganda Política - Propaganda Eleitoral - Televisão
+│   │   │   │   └── Propaganda Política - Propaganda Eleitoral - Invasão de Horário Destinado a Outro Cargo/Partido/Coligação
+│   │   │   ├── Propaganda Política - Propaganda Eleitoral - Imprensa Escrita - Jornal/Revista/Tabloide
+│   │   │   ├── Propaganda Política - Propaganda Eleitoral - Inobservância do Limite Legal
+│   │   │   ├── Propaganda Política - Propaganda Eleitoral - Internet
+│   │   │   ├── Propaganda Política - Propaganda Eleitoral - Omissão de Informações Obrigatórias
+│   │   │   ├── Propaganda Política - Propaganda Eleitoral - Outdoors
+│   │   │   ├── Propaganda Política - Propaganda Eleitoral - Pintura em Muro
+│   │   │   └── Propaganda Política - Propaganda Eleitoral - Truncagem, Montagem, Utilização de Gravação Externa, Computação Gráfica, Desenho Animado ou Efeito Especial
+│   │   ├── Recursos Financeiros de Campanha Eleitoral
+│   │   │   ├── Captação ou Gasto Ilícito de Recursos Financeiros de Campanha Eleitoral
+│   │   │   ├── Comitê Financeiro
+│   │   │   │   ├── Prestação de Contas - De Comitê Financeiro
+│   │   │   │   └── Registro de Comitê Financeiro
+│   │   │   │       ├── Registro de Comitê Financeiro - Eleição Majoritária
+│   │   │   │       ├── Registro de Comitê Financeiro - Eleição Proporcional
+│   │   │   │       └── Registro de Comitê Financeiro - Único
+│   │   │   ├── Contas
+│   │   │   │   ├── Contas - Apresentação de Contas
+│   │   │   │   │   ├── Contas - Aprovação
+│   │   │   │   │   │   ├── Contas - Aprovação das Contas
+│   │   │   │   │   │   └── Contas - Aprovação das Contas com Ressalvas
+│   │   │   │   │   └── Contas - Desaprovação/Rejeição das Contas
+│   │   │   │   └── Contas - Não Apresentação das Contas
+│   │   │   └── Doação de Recursos Acima do Limite Legal
+│   │   │       ├── Doação de Recursos Acima do Limite Legal - Pessoa Física
+│   │   │       └── Doação de Recursos Acima do Limite Legal - Pessoa Jurídica
+│   │   ├── Garantias Eleitorais
+│   │   │   ├── Habeas Corpus
+│   │   │   │   ├── Habeas Corpus - Liberatório
+│   │   │   │   └── Habeas Corpus - Preventivo
+│   │   │   ├── Impugnação
+│   │   │   │   ├── Impugnação - Identidade de Eleitor Admitido a Votar
+│   │   │   │   ├── Impugnação - Nomeação de Membro da Mesa Receptora
+│   │   │   │   ├── Impugnação - Nomeação de Membro da Junta Eleitoral
+│   │   │   │   ├── Impugnação - Sistema Eletrônico de Votação
+│   │   │   │   └── Impugnação - Voto por Cédula
+│   │   │   ├── Assegurar Conhecimento de Informações Relativas à Pessoa do Impetrante
+│   │   │   ├── Direito Líquido e Certo
+│   │   │   ├── Impugnação de Ato Judicial
+│   │   │   ├── Inviabilidade do Exercício dos Direitos e Liberdades Constitucionais
+│   │   │   ├── Inviabilidade do Exercício das Prerrogativas Inerentes à Nacionalidade, à Soberania e à Cidadania
+│   │   │   └── Retificação de Dados
+│   │   ├── Registro de Candidatura - DRAP - Partido/Coligação
+│   │   ├── Resultados
+│   │   │   ├── Apuração/Totalização de Votos
+│   │   │   └── Quociente Eleitoral/Partidário
+│   │   ├── Transgressões Eleitorais
+│   │   │   ├── Abuso
+│   │   │   │   ├── Abuso - De Poder Econômico
+│   │   │   │   ├── Abuso - De Poder Político/Autoridade
+│   │   │   │   └── Abuso - Uso Indevido de Meio de Comunicação Social
+│   │   │   ├── Captação Ilícita de Sufrágio
+│   │   │   ├── Corrupção ou Fraude
+│   │   │   ├── Propaganda Política - Propaganda Institucional
+│   │   │   ├── Captação ou Gasto Ilícito de Recursos Financeiros de Campanha Eleitoral
+│   │   │   ├── Conduta Vedada ao Agente Público
+│   │   │   └── Percentual de Gênero - Candidatura Fictícia
+│   │   ├── Prestação de Contas
+│   │   │   ├── Prestação de Contas - De Candidato
+│   │   │   ├── Prestação de Contas - De Comitê Financeiro
+│   │   │   └── Prestação de Contas - de Partido Político
+│   │   ├── Impugnação
+│   │   │   ├── Impugnação - Identidade de Eleitor Admitido a Votar
+│   │   │   ├── Impugnação - Inscrição Eleitoral
+│   │   │   ├── Impugnação - Nomeação de Membro da Junta Eleitoral
+│   │   │   ├── Impugnação - Nomeação de Membro da Mesa Receptora
+│   │   │   ├── Impugnação - Sistema Eletrônico de Votação
+│   │   │   ├── Impugnação - Transferência de Domicílio Eleitoral
+│   │   │   └── Impugnação - Voto por Cédula
+│   │   ├── Autorização de Divulgação de Publicidade Institucional
+│   │   ├── Debate Eleitoral
+│   │   ├── Enquete
+│   │   ├── Ausência ou Abandono aos Trabalhos Eleitorais
+│   │   │   └── Pedido de Dispensa de Convocação para Trabalhos Eleitorais
+│   │   └── Pedido de Dispensa de Convocação para Trabalhos Eleitorais
+│   ├── Diplomação
+│   ├── Direitos Políticos
+│   │   ├── Direitos Políticos - Perda dos Direitos Políticos
+│   │   ├── Direitos Políticos - Restabelecimento dos Direitos Políticos
+│   │   └── Direitos Políticos - Suspensão de Direitos Políticos
+│   ├── Execução
+│   │   ├── Execução - De Astreintes
+│   │   ├── Execução - De Multa Eleitoral
+│   │   ├── Execução de Julgado
+│   │   └── Execução - Cumprimento de Sentença
+│   ├── Garantias Processuais
+│   │   ├── Cautelar Inominada
+│   │   │   ├── Cautelar Inominada - De Busca e Apreensão
+│   │   │   ├── Cautelar Inominada - De Produção Antecipada de Provas
+│   │   │   ├── Cautelar Inominada - Incidental
+│   │   │   └── Cautelar Inominada - Preparatória
+│   │   └── Exceção
+│   │       ├── Exceção - De Coisa Julgada
+│   │       ├── Exceção - De Ilegitimidade de Parte
+│   │       ├── Exceção - De Impedimento
+│   │       ├── Exceção - De Incompetência
+│   │       ├── Exceção - De Litispendência
+│   │       ├── Exceção - De Pré-Executividade
+│   │       └── Exceção - De Suspeição
+│   ├── Partidos Políticos
+│   │   ├── Alteração Estatutária de Partido Político em Matéria Administrativa
+│   │   ├── Coligação Partidária
+│   │   │   ├── Coligação Partidária - Majoritária
+│   │   │   ├── Coligação Partidária - Majoritária e Proporcional
+│   │   │   └── Coligação Partidária - Proporcional
+│   │   ├── Convenção Partidária
+│   │   ├── Filiação/Desfiliação
+│   │   │   ├── Filiação Partidária
+│   │   │   │   ├── Filiação Partidária - Cancelamento
+│   │   │   │   ├── Filiação Partidária - Coexistência
+│   │   │   │   ├── Filiação Partidária - Exclusão
+│   │   │   │   └── Filiação Partidária - Lista Especial
+│   │   │   └── Desfiliação Partidária
+│   │   │       ├── Justificação de Desfiliação Partidária
+│   │   │       ├── Perda de Cargo Eletivo por Desfiliação Partidária
+│   │   │       └── Reversão de Desfiliação
+│   │   ├── Fusão de Partidos Políticos
+│   │   ├── Incorporação de Partidos Políticos
+│   │   ├── Órgão de Direção Partidária
+│   │   │   ├── Dissolução de Órgão de Direção Partidária
+│   │   │   ├── Partido Político - Órgão de Direção Estadual
+│   │   │   ├── Partido Político - Órgão de Direção Municipal
+│   │   │   └── Partido Político - Órgão de Direção Nacional
+│   │   ├── Partido Político - Comissão Provisória
+│   │   ├── Propaganda Política
+│   │   │   ├── Propaganda Política - Propaganda Intrapartidária
+│   │   │   └── Propaganda Política Partidária
+│   │   │       ├── Propaganda Política - Propaganda Partidária
+│   │   │       └── Veiculação
+│   │   │           ├── Veiculação de Propaganda Partidária - Em Bloco
+│   │   │           └── Veiculação de Propaganda Partidária - Em Inserções
+│   │   ├── Prestação de Contas - De Exercício Financeiro
+│   │   ├── Prestação de Contas - de Partido Político
+│   │   ├── Fundo Partidário
+│   │   ├── Registro de Partido Político
+│   │   └── Fusão de Partidos Políticos
+│   ├── Plebiscito
+│   ├── Requerimento
+│   ├── Meios Processuais
+│   ├── Corregedoria Eleitoral
+│   │   ├── Correição ordinária
+│   │   ├── Correição extraordinária
+│   │   ├── Dados Pessoais
+│   │   ├── Perda
+│   │   ├── Pluralidade de Inscrições
+│   │   │   └── Regularização da Base de Perda e Suspensão (BPSDP)
+│   │   │       └── Regularização de Histórico
+│   │   ├── Regularização da Base de Perda e Suspensão (BPSDP)
+│   │   ├── Regularização de Histórico
+│   │   │   ├── Regularização de Histórico - Exclusão de Códigos de ASE
+│   │   │   ├── Regularização de Histórico - Retificação de Data de Ocorrência, Motivo/Forma, Complemento e Situação
+│   │   │   ├── Regularização de Histórico - Lançamento de Códigos de ASE
+│   │   │   ├── Regularização de Histórico - Retificação de Dados Pessoais
+│   │   │   └── Regularização de Histórico - Cancelamento por Equívoco
+│   │   ├── Reversão de Operação
+│   │   │   ├── Reversão de Operação - Revisão Equivocada
+│   │   │   └── Reversão de Operação - Transferência Equivocada
+│   │   └── Revogação
+│   ├── Requerimento de Regularização da Situação de Inadimplência de Prestação de Contas
+│   ├── Requerimento de Acesso ao Sistema Interno de Controle e Dados de Pesquisas Eleitorais
+│   └── Revisão de Eleitorado
+│       ├── Revisão de Eleitorado - Cadastramento Biométrico
+│       └── Revisão de Eleitorado - Depuração de Cadastro
+├── QUESTÕES DE ALTA COMPLEXIDADE, GRANDE IMPACTO E REPERCUSSÃO
+│   ├── Brumadinho
+│   ├── Boate Kiss
+│   ├── Mariana
+│   ├── Unaí
+│   └── COVID-19
+└── DIREITO DA SAÚDE
+    ├── Pública
+    │   ├── Internação/Transferência Hospitalar
+    │   │   ├── Leito de enfermaria / leito oncológico
+    │   │   └── Unidade de terapia intensiva (UTI) / unidade de cuidados intensivos (UCI)
+    │   ├── Fornecimento de medicamentos
+    │   │   ├── Registrado na ANVISA
+    │   │   │   ├── Padronizado
+    │   │   │   └── Não padronizado
+    │   │   ├── Sem registro na ANVISA
+    │   │   └── Oncológico
+    │   ├── Fornecimento de insumos
+    │   │   ├── Curativos/Bandagem
+    │   │   ├── Cadeira de rodas / cadeira de banho / cama hospitalar
+    │   │   └── Fraldas
+    │   ├── Tratamento médico-hospitalar
+    │   │   ├── Consulta
+    │   │   ├── Cirurgia
+    │   │   │   ├── Eletiva
+    │   │   │   └── Urgência
+    │   │   └── Diálise/Hemodiálise
+    │   ├── Sistema Único de Saúde (SUS)
+    │   │   ├── Convênio médico com o SUS
+    │   │   ├── Financiamento do SUS
+    │   │   ├── Reajuste da tabela do SUS
+    │   │   ├── Repasse de verbas do SUS
+    │   │   ├── Ressarcimento do SUS
+    │   │   ├── Terceirização do SUS
+    │   │   └── Controle Social e Conselhos de Saúde
+    │   └── Vigilância Sanitária e Epidemológica
+    ├── Suplementar
+    │   └── Planos de saúde
+    │       ├── Fornecimento de medicamentos
+    │       ├── Reajuste contratual
+    │       ├── Tratamento médico-hospitalar
+    │       └── Fornecimento de insumos
+    ├── Mental
+    │   ├── Internação compulsória
+    │   ├── Internação involuntária
+    │   └── Internação voluntária
+    ├── Genética / Células Tronco
+    └── Doação e transplante de órgãos, tecidos ou partes
